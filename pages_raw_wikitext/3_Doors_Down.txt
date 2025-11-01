@@ -14,16 +14,15 @@
 * [[hard rock]]<ref name=allmusic-bio>{{cite web |author= Proefrock, Stacia |url= http://www.allmusic.com/artist/3-doors-down-mn0000923323/biography |title= 3 Doors Down |work= [[AllMusic]] |access-date= July 1, 2015}}</ref>
 * [[alternative rock]]<ref name=usatoday>{{cite web |author= Ryan, Patrick |url= https://www.usatoday.com/story/life/music/2013/07/19/3-doors-down-to-play-us-scouts-jamboree/2569377/ |title = 3 Doors Down to play U.S. Scouts Jamboree |work= [[USA Today]] |date= July 19, 2013 |access-date= July 1, 2015}}</ref>
 }}
-| years_active      = 1996–present
+| years_active      = 1996–2025
 | label             = 
 | website           = {{Official URL}}
-| current_members   = 
+| past_members   = 
 * [[Brad Arnold]]
 * Chris Henderson
 * Greg Upchurch
 * Chet Roberts
 * Justin Biltonen
-| past_members      = 
 * Matt Roberts
 * Todd Harrell
 * Richard Liles
@@ -36,7 +35,7 @@
 }}
 }}
 
-'''3 Doors Down''' is an American [[Rock music|rock]] band from [[Escatawpa, Mississippi]] that formed in 1996. The band's music is described as post-grunge, alternative rock, and hard rock.
+'''3 Doors Down''' was an American [[Rock music|rock]] band from [[Escatawpa, Mississippi]], that formed in 1996. The band's music is described as post-grunge, alternative rock, and hard rock.
 
 The band was brought to mainstream popularity with their 2000 debut single, "[[Kryptonite (3 Doors Down song)|Kryptonite]]", which peaked at number three on the [[Billboard Hot 100|''Billboard'' Hot 100]]. The song preceded their debut album ''[[The Better Life]]'' (2000), which became the 11th-best-selling album of that year, received [[RIAA certification|septuple platinum]] certification by the [[Recording Industry Association of America]] (RIAA), and spawned two additional ''Billboard'' Hot 100 entries: "[[Loser (3 Doors Down song)|Loser]]" and "[[Be Like That (3 Doors Down song)|Be Like That]]". Their second album, ''[[Away from the Sun]]'' (2002), continued the band's success, debuting at number eight on the [[Billboard 200|''Billboard'' 200]] and spawning the ''Billboard'' Hot 100-top five singles "[[When I'm Gone (3 Doors Down song)|When I'm Gone]]" and "[[Here Without You]]". 
 
@@ -151,14 +150,12 @@ Past performers at the show include [[Lynyrd Skynyrd]], [[Shinedown]], [[Alter B
 {{col-begin}}
 {{col-2}}
 
-===Current members===
-* [[Brad Arnold]] – lead vocals <small>(1996–present)</small>, drums <small>(1996–2000)</small>
-* Chris Henderson – rhythm guitar, backing vocals <small>(1998–present)</small>
-* Greg Upchurch – drums <small>(2005–present)</small>
-* Chet Roberts – lead guitar, backing vocals <small>(2012–present)</small>
-* Justin Biltonen – bass <small>(2013–present)</small>
-
 ===Former members===
+* [[Brad Arnold]] – lead vocals <small>(1996–2025)</small>, drums <small>(1996–2000)</small>
+* Chris Henderson – rhythm guitar, backing vocals <small>(1998–2025)</small>
+* Greg Upchurch – drums <small>(2005–2025)</small>
+* Chet Roberts – lead guitar, backing vocals <small>(2012–2025)</small>
+* Justin Biltonen – bass <small>(2013–2025)</small>
 * Matt Roberts – lead and rhythm guitar, backing vocals <small>(1996–2012; died 2016)</small>
 * Todd Harrell – bass <small>(1996–2013)</small>
 * Richard Liles – drums <small>(2000–2002)</small>

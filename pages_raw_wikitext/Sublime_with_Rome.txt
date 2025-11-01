@@ -323,7 +323,7 @@ PlotData =
 ===Songs===
 {| class="wikitable"
 |-
-! Title !! Release Date !! Album 
+! Title !! Release date !! Album 
 |-
 | "Can You Feel It" || 2011 || ''Yours Truly''
 |-
@@ -428,3 +428,4 @@ PlotData =
 [[Category:Musical trios from California]]
 [[Category:Sublime (band)]]
 [[Category:Fueled by Ramen artists]]
+[[Category:2009 establishments in California]]

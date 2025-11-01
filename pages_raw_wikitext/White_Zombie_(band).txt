@@ -11,6 +11,8 @@
 | works           = [[White Zombie discography|Discography]]
 | genre           = {{flatlist|
 *[[Groove metal]]
+*[[stoner rock]]
+*[[dance rock]]
 *[[industrial metal]]
 *[[alternative metal]]
 *[[noise rock]] (early)

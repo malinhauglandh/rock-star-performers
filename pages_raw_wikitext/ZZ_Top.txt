@@ -122,15 +122,15 @@ Hill would "[occasionally] partake" in [[marijuana]] until one occasion in a hot
 
 == Band members ==
 '''Current members'''
-* [[Billy Gibbons]] – lead and backing vocals, guitar {{small|(1969–present)}}
+* [[Billy Gibbons]] – lead vocals, guitar {{small|(1969–present)}}
 * [[Frank Beard (musician)|Frank Beard]] – drums, percussion {{small|(1969–present)}}
-* Elwood Francis – bass, lead and backing vocals, keyboards {{small|(2021–present; ''touring 2021'')}}
+* Elwood Francis – bass, backing vocals, keyboards {{small|(2021–present; ''touring 2021'')}}
 
 '''Former members'''
 * Dan Mitchell – drums {{small|(1969)}}
-* Lanier Greig – keyboards, bass {{small|(1969; ''died 2013'')}}<ref name="keys">{{cite web|first= Jeff |last= Giles |title= Meet the Other Three Members of ZZ Top |website= Ultimate Classic Rock |date= February 21, 2014 |access-date= September 16, 2017 |url= http://ultimateclassicrock.com/zz-top-other-members/}}</ref>
+* Lanier Greig – organ, bass {{small|(1969; ''died 2013'')}}<ref name="keys">{{cite web|first= Jeff |last= Giles |title= Meet the Other Three Members of ZZ Top |website= Ultimate Classic Rock |date= February 21, 2014 |access-date= September 16, 2017 |url= http://ultimateclassicrock.com/zz-top-other-members/}}</ref>
 * Billy Ethridge – bass {{small|(1969–1970)}}
-* [[Dusty Hill]] – bass, lead and backing vocals, keyboards {{small|(1970–2021; ''his death'')}}
+* [[Dusty Hill]] – bass, backing and lead vocals, keyboards {{small|(1970–2021; ''his death'')}}
 
 '''Former touring musicians'''
 * John Douglas – drums, percussion {{small|(2002, 2025; ''substitute for Frank Beard'')}}
@@ -149,11 +149,11 @@ ScaleMajor = increment:5 start:1969
 ScaleMinor = increment:1 start:1969
 
 Colors =
- id:vocals        value:red        legend:Vocals
- id:guitar        value:green      legend:Guitar
+ id:vocals        value:red        legend:Lead_vocals,_guitar
+ id:bvocals       value:pink       legend:Backing_vocals
  id:bass          value:blue       legend:Bass
  id:keys          value:purple     legend:Keyboards
- id:drums         value:orange     legend:Drums
+ id:drums         value:orange     legend:Drums,_percussion
  id:studio        value:black      legend:Studio_album
  id:live          value:gray(0.7)  legend:Live_recording
  id:bars          value:gray(0.95)
@@ -168,24 +168,27 @@ BarData =
  bar:Francis text:"Elwood Francis"
  bar:Mitchell text:"Dan Mitchell"
  bar:Beard text:"Frank Beard"
+ bar:Jamison text:"Jimi Jamison"
  
 PlotData=
   width:11 textcolor:black align:left anchor:from shift:(0,-4)
- bar:Gibbons  from:start        till:end         color:vocals width:3
- bar:Gibbons  from:start        till:end         color:guitar
+ bar:Gibbons  from:start        till:end         color:vocals
  bar:Greig    from:start        till:01/06/1969  color:keys
  bar:Greig    from:start        till:01/06/1969  color:bass width:3 
  bar:Greig    at:15/02/2013 text:
  bar:Ethridge from:01/06/1969   till:31/12/1969  color:bass
  bar:Hill      from:01/01/1970   till:28/07/2021  color:bass
  bar:Hill      from:01/06/1979   till:28/07/2021  color:keys width:7
- bar:Hill      from:01/01/1970   till:28/07/2021  color:vocals width:3
+ bar:Hill      from:01/01/1970   till:28/07/2021  color:bvocals width:3
  bar:Hill from:28/07/2021 till:28/07/2021 text:
  bar:Francis    from:28/07/2021   till:end         color:bass
  bar:Francis    from:28/07/2021   till:end         color:keys width:7
- bar:Francis    from:28/07/2021   till:end         color:vocals width:3
+ bar:Francis    from:28/07/2021   till:end         color:bvocals width:3
  bar:Mitchell       from:start        till:01/06/1969  color:drums
  bar:Beard     from:01/06/1969   till:end         color:drums
+ bar:Jamison      from:01/01/1983   till:31/12/1983  color:bvocals
+ bar:Jamison      from:01/01/1985   till:31/12/1985  color:bvocals
+ bar:Jamison      from:01/01/1990   till:31/12/1990  color:bvocals
 
 LineData =
   layer:back color:studio

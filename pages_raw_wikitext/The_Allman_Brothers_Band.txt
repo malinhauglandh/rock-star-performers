@@ -7,7 +7,7 @@
 | image             = Allman Brothers Band 1969.jpg
 | caption           = The Allman Brothers Band in May 1969. From left to right, (back) [[Duane Allman]], [[Gregg Allman]]; (front) [[Butch Trucks]], [[Dickey Betts]], [[Berry Oakley]], and [[Jaimoe]].
 | alt               = The musicians facing the camera
-| origin            = [[Macon, Georgia]], U.S.
+| origin            = [[Jacksonville, Florida]], U.S.
 | genre             = {{hlist|[[Southern rock]]|[[blues rock]]|{{nowrap|[[jazz rock]]}}<ref>{{cite web|url=http://www.allmusic.com/artist/the-allman-brothers-band-mn0000745964/biography|title=The Allman Brothers Band&nbsp;– Biography&nbsp;– AllMusic|work=AllMusic|access-date=September 19, 2014}}</ref>|[[jam band]]<ref>{{cite magazine |url=https://www.rollingstone.com/music/music-lists/readers-poll-the-10-best-jam-bands-176464/dave-matthews-band-17-155871/ |title=Readers' Poll: The 10 Best Jam Bands |magazine=Rolling Stone |first=Andy |last=Greene |date=March 25, 2015 |access-date=July 26, 2021 }}</ref>}}
 | years_active      = {{hlist|1969–1976|1978–1982|1989–2014}}
 | label             = {{flatlist|

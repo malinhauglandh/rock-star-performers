@@ -7,11 +7,11 @@
 | name              = INXS
 | landscape         = yes
 | image             = INXS (1983 ATCO publicity photo).jpg
-| caption           = INXS in 1983.
+| caption           = INXS in 1983
 | alt               = INXS publicity photo
 | background        = group_or_band
-| alias             = The Farriss Brothers (1977–1979)
-| origin            = [[Sydney]], [[Australia]]
+| alias             = the Farriss Brothers (1977–1979)
+| origin            = [[Sydney]], [[New South Wales]], Australia
 | genre             = {{flatlist|
 *[[New wave music|New wave]]
 *[[Pub rock (Australia)|pub rock]]
@@ -49,7 +49,7 @@
 *[[J.D. Fortune]]
 *[[Ciaran Gribbin]]
 }}
-'''INXS''' (a [[word play|phonetic play]] on "in excess"<ref name="LU_name">{{cite web | title=Levels of language & pop group names. Analysis of the popgroup name, ''INXS'') | website=[[Lancaster University]] | url=https://www.lancaster.ac.uk/fass/projects/stylistics/topic1b/inxs.htm | access-date=June 9, 2025}}</ref>) were<!--Goes by Australian English.--> an Australian rock band, formed as '''the Farriss Brothers''' in 1977 in Sydney.<ref name="McF">{{Cite book |title=[[Encyclopedia of Australian Rock and Pop]] |last=McFarlane |first=Ian |author-link= Ian McFarlane |publisher=[[Allen & Unwin]] |year=1999 |chapter=Encyclopedia entry for 'INXS' |chapter-url=http://www.whammo.com.au/encyclopedia.asp?articleid=950 |isbn=1-86448-768-2 |archive-url= https://web.archive.org/web/20040930213309/http://www.whammo.com.au/encyclopedia.asp?articleid=950|access-date=16 November 2008 |archive-date= 30 September 2004}}</ref><ref name="Howl">{{cite web | archive-url = https://webarchive.nla.gov.au/awa/20120726191200/http://pandora.nla.gov.au/pan/14231/20120727-0512/www.howlspace.com.au/en2/inxs/inxs.htm | url = http://www.howlspace.com.au/en2/inxs/inxs.htm | title = INXS | last1 = Nimmervoll | first1 = Ed | author-link1 = Ed Nimmervoll | publisher = Howlspace – The Living History of Our Music. White Room Electronic Publishing Pty Ltd (Ed Nimmervoll) | archive-date = 26 July 2012 | access-date = 22 January 2014}}{{cbignore|bot=medic}}</ref> The founding members were bassist [[Garry Gary Beers]], main composer and keyboardist [[Andrew Farriss]], drummer [[Jon Farriss]], guitarist [[Tim Farriss]], lead singer and main lyricist [[Michael Hutchence]], and guitarist and saxophonist [[Kirk Pengilly]].<ref name="ARDb">{{cite web | archive-url = https://web.archive.org/web/20111212151007/http://hem.passagen.se/honga/database/i/inxs.html | url-status = usurped | url = http://hem.passagen.se/honga/database/i/inxs.html | title = INXS | publisher = [[Australian Rock Database]]. Passagen (Magnus Holmgren) | last1 = Holmgren | first1 = Magnus | last2 = Shaw | first2 = Julian | last3 = Meyer | first3 = Peer | archive-date = 12 December 2011 | access-date = 11 February 2014}}</ref> For 20&nbsp;years, INXS were fronted by Hutchence, whose stage presence made him the focal point of the band.<ref name="McF"/><ref name="ARDb"/> Initially known for their [[New wave music|new wave]]/ska-pop style, the band then developed a harder [[Pub rock (Australia)|pub rock]] style that included [[funk]] and dance elements.<ref name="McF"/>
+'''INXS''' (a [[word play|phonetic play]] on "in excess"<ref name="LU_name">{{cite web | title=Levels of language & pop group names. Analysis of the popgroup name, ''INXS'') | website=[[Lancaster University]] | url=https://www.lancaster.ac.uk/fass/projects/stylistics/topic1b/inxs.htm | access-date=June 9, 2025}}</ref>) were<!--Goes by Australian English.--> an Australian rock band, formed in 1977 in Sydney.<ref name="McF">{{Cite book |title=[[Encyclopedia of Australian Rock and Pop]] |last=McFarlane |first=Ian |author-link= Ian McFarlane |publisher=[[Allen & Unwin]] |year=1999 |chapter=Encyclopedia entry for 'INXS' |chapter-url=http://www.whammo.com.au/encyclopedia.asp?articleid=950 |isbn=1-86448-768-2 |archive-url= https://web.archive.org/web/20040930213309/http://www.whammo.com.au/encyclopedia.asp?articleid=950|access-date=16 November 2008 |archive-date= 30 September 2004}}</ref><ref name="Howl">{{cite web | archive-url = https://webarchive.nla.gov.au/awa/20120726191200/http://pandora.nla.gov.au/pan/14231/20120727-0512/www.howlspace.com.au/en2/inxs/inxs.htm | url = http://www.howlspace.com.au/en2/inxs/inxs.htm | title = INXS | last1 = Nimmervoll | first1 = Ed | author-link1 = Ed Nimmervoll | publisher = Howlspace – The Living History of Our Music. White Room Electronic Publishing Pty Ltd (Ed Nimmervoll) | archive-date = 26 July 2012 | access-date = 22 January 2014}}{{cbignore|bot=medic}}</ref> Originally called '''the Farriss Brothers''', founding members were bassist [[Garry Gary Beers]], main composer and keyboardist [[Andrew Farriss]], drummer [[Jon Farriss]], guitarist [[Tim Farriss]], lead singer and main lyricist [[Michael Hutchence]], and guitarist and saxophonist [[Kirk Pengilly]].<ref name="ARDb">{{cite web | archive-url = https://web.archive.org/web/20111212151007/http://hem.passagen.se/honga/database/i/inxs.html | url-status = usurped | url = http://hem.passagen.se/honga/database/i/inxs.html | title = INXS | publisher = [[Australian Rock Database]]. Passagen (Magnus Holmgren) | last1 = Holmgren | first1 = Magnus | last2 = Shaw | first2 = Julian | last3 = Meyer | first3 = Peer | archive-date = 12 December 2011 | access-date = 11 February 2014}}</ref> For 20&nbsp;years, INXS were fronted by Hutchence, whose stage presence made him the focal point of the band.<ref name="McF"/><ref name="ARDb"/> Initially known for their [[New wave music|new wave]]/ska-pop style, the band then developed a harder [[Pub rock (Australia)|pub rock]] style that included [[funk]] and dance elements.<ref name="McF"/>
 
 In 1984, INXS had their first number-one hit in Australia with "[[Original Sin (INXS song)|Original Sin]]". The band achieved international success in the mid-to-late 1980s and early 1990s with the hit albums ''[[Listen Like Thieves]]'', ''[[Kick (INXS album)|Kick]]'', and ''[[X (INXS album)|X]]'', and the singles "[[What You Need (INXS song)|What You Need]]", "[[Need You Tonight]]" (the band's only US number-one single), "[[Devil Inside (INXS song)|Devil Inside]]", "[[Never Tear Us Apart]]", "[[Suicide Blonde]]" and "[[New Sensation]]".<ref name="Kent">{{Cite book |title=[[Kent Music Report|Australian Chart Book 1970–1992]] |last=Kent |first=David |author-link= David Kent (historian)|publisher=Australian Chart Book|location=[[St Ives, New South Wales|St Ives]], Sydney |year=1993 |isbn=0-646-11917-6 }} NOTE: Used for Australian Singles and Albums charting until ARIA created their own charts in mid-1988.</ref><ref name="AusCharts">{{cite web|url=http://australian-charts.com/showinterpret.asp?interpret=INXS |title=INXS discography |publisher=Australian Charts Portal |access-date=16 November 2008 |url-status=dead |archive-url=https://web.archive.org/web/20140302214619/http://www.australian-charts.com/showinterpret.asp?interpret=INXS |archive-date=2 March 2014 }}</ref><ref name=AMGSingles>{{cite web|url={{AllMusic|class=artist|id=p4555/charts-awards/billboard-singles|pure_url=yes}} |title=INXS > Charts & Awards > Billboard singles|website=[[AllMusic]]|access-date=6 March 2008}}</ref><ref name=BBalbums>{{cite magazine|url={{BillboardURLbyName|artist=inxs|chart=all}} |title=Artist Chart History&nbsp;– INXS&nbsp;– Albums|magazine=Billboard |access-date=6 March 2008}}</ref>
 
@@ -256,9 +256,6 @@ In 2019, a documentary film was released about [[Michael Hutchence]] titled ''[[
 * [[Ciaran Gribbin]] – lead vocals, rhythm and lead guitar {{small|(2011–2012)}}
 {{Col-2}}'''Touring members'''
 * [[Jenny Morris (musician)|Jenny Morris]] – backing vocals {{small|(1985–1986)}}
-* [[Jimmy Barnes]] – lead vocals {{small|(1998)}}
-* [[Terence Trent D'Arby]] – lead vocals {{small|(1999)}}
-* [[Russell Hitchcock]] – lead vocals {{small|(1999)}}
 * [[Suze DeMarchi]] – lead vocals {{small|(2000)}}
 {{col-end}}
 
@@ -308,9 +305,6 @@ LineData =
 
 BarData =
  bar:Hutchence   text:"Michael Hutchence"
- bar:Barnes      text:"Jimmy Barnes"
- bar:D'Arby      text:Terence Trent D'Arby
- bar:Hitchcock   text:Russell Hitchcock
  bar:Stevens     text:"Jon Stevens"
  bar:DeMarchi    text:Suze De Marchi
  bar:Fortune     text:"JD Fortune"
@@ -325,12 +319,6 @@ BarData =
 PlotData=
  width:15 textcolor:black align:left anchor:from shift:(11,-4)
  bar:Hutchence   from:01/01/1977 till:22/11/1997 color:lvocals
- bar:Barnes      from:14/11/1998 till:10/11/1998 color:lvocals
- bar:Barnes      from:14/11/1998 till:10/11/1998 color:tour       width:3
- bar:D'Arby      from:12/06/1999 till:12/06/1999 color:lvocals
- bar:D'Arby      from:12/06/1999 till:12/06/1999 color:tour       width:3
- bar:Hitchcock   from:12/06/1999 till:12/06/1999 color:lvocals
- bar:Hitchcock   from:12/06/1999 till:12/06/1999 color:tour       width:3
  bar:DeMarchi    from:01/12/2000 till:31/12/2000 color:lvocals 
  bar:DeMarchi    from:01/12/2000 till:31/12/2000 color:tour       width:3
  bar:Stevens     from:01/04/2000 till:01/10/2003 color:lvocals
@@ -732,3 +720,4 @@ The [[Pollstar]] Concert Industry Awards is an annual award ceremony to honour a
 [[Category:Australian alternative rock groups]]
 [[Category:Sibling musical groups]]
 [[Category:Australian musical sextets]]
+[[Category:World Music Awards winners]]

@@ -12,7 +12,6 @@
 | genre             = {{flatlist|
 * [[New wave music|New wave]]
 * [[reggae rock]]
-* {{nowrap|[[post-punk]]}}
 * [[pop rock]]
 }}
 | discography       = {{flatlist|

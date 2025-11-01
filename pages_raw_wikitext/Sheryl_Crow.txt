@@ -26,9 +26,7 @@
 | instrument        = {{flatlist|
 * Vocals
 * guitar 
-* keyboards
-* bass
-* harmonica
+* keyboards 
 }}
 | discography       = [[Sheryl Crow discography]]
 | years_active      = 1983–present
@@ -143,7 +141,7 @@ In August 2008, Crow (in partnership with Western Glove Works) launched a jeans 
 On April 4, 2009, Crow, who practices [[Transcendental Meditation]], took part in a benefit concert at the [[Radio City Music Hall]] in [[New York City]] organized by the [[David Lynch Foundation]] supporting the Foundation's goal of teaching one million at-risk students to meditate. She and [[Ben Harper]] performed [[George Harrison]]'s "[[My Sweet Lord]]". Other performers at the concert included [[Paul McCartney]], [[Ringo Starr]], [[Mike Love]], [[Moby]], [[Eddie Vedder]] and [[Donovan]].
 
 ===2010–2012: ''100 Miles from Memphis''===
-[[File:20111016 Sheryl Crow and Stevie Wonder at the MLK Memorial dedication concert.jpg|thumb|Crow with [[Stevie Wonder]] at the dedication concert for the [[Martin Luther King Jr. Memorial]] on October 16, 2011.]]
+[[File:20111016 Sheryl Crow and Stevie Wonder at the MLK Memorial dedication concert.jpg|thumb|Crow with [[Stevie Wonder]] at the dedication concert for the [[Martin Luther King Jr. Memorial]] on October 16, 2011]]
 In 2010, Crow contributed the original spoken-word track "My Name Is Mwamaroyi" to the [[Enough Project]] and [[Downtown Records]]' ''Raise Hope for [[Democratic Republic of the Congo|Congo]]'' compilation. Proceeds from the compilation fund efforts to make the protection and empowerment of Congo's women a priority, as well as inspire individuals around the world to raise their voice for peace in Congo.
 
 A&M Records released Crow's seventh studio album, ''[[100 Miles from Memphis]]'', on July 20, 2010. The album had a [[Memphis soul]] sound and featured the lead single "[[Summer Day]]".<ref>{{cite web |url=http://top40.about.com/b/2010/06/04/sheryl-crow-drops-summer-day-into-the-summer-song-derby.htm |title=Sheryl Crow Drops 'Summer Day' Into the Summer Song Derby |publisher=Top40.about.com |date=June 4, 2010 |access-date=October 19, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100613034820/http://top40.about.com/b/2010/06/04/sheryl-crow-drops-summer-day-into-the-summer-song-derby.htm |archive-date=June 13, 2010}}</ref>
@@ -319,12 +317,10 @@ On November 3, 2023, Crow was inducted into the [[Rock and Roll Hall of Fame]].<
 
 ==External links==
 {{Commons}}
-*{{Official website|http://sherylcrow.com}}
-*[http://sherylcrownews.com/band Band Members (1999-Today)] {{Webarchive|url=https://web.archive.org/web/20150904015947/http://sherylcrownews.com/band/ |date=September 4, 2015 }}
-*[https://www.onamrecords.com/artists/sheryl-crow Sheryl Crow On A&M Records]
-*[https://www.npr.org/templates/story/story.php?storyId=18693425 Sheryl Crow's] interview on [[National Public Radio]]'s ''[[Fresh Air]]''
-*{{IMDb name|0002028}}
-*[http://www.vh1.com/artists/az/crow_sheryl/artist.jhtml Sheryl Crow] {{Webarchive|url=https://web.archive.org/web/20110207211459/http://www.vh1.com/artists/az/crow_sheryl/artist.jhtml |date=February 7, 2011 }} at [[VH1.com]]
+* {{Official website|http://sherylcrow.com}}
+* {{discogs artist}}
+* [https://www.npr.org/templates/story/story.php?storyId=18693425 Sheryl Crow's] interview on [[National Public Radio]]'s ''[[Fresh Air]]''
+* {{IMDb name}}
 
 {{Sheryl Crow|state=uncollapsed}}
 {{Navboxes

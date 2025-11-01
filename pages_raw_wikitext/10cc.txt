@@ -5,7 +5,7 @@
 {{Infobox musical artist
 | name              = 10cc
 | image             = 10CC - TopPop 1974 2.png
-| caption           = 10cc appearing on ''[[TopPop]]'' in [[Hilversum, Netherlands]], southeast of [[Amsterdam]], 1974:<br />(clockwise from top left) [[Eric Stewart]], [[Kevin Godley]], [[Graham Gouldman]], [[Lol Creme]]
+| caption           = 10cc appearing on ''[[TopPop]]'' in [[Hilversum, Netherlands]], 1974:<br />(clockwise from top left) [[Eric Stewart]], [[Kevin Godley]], [[Graham Gouldman]], [[Lol Creme]]
 | landscape         = yes
 | alias             = 
 | spinoff_of        = [[Hotlegs]]
@@ -16,14 +16,15 @@
 | label             = {{hlist|[[UK Records]]|[[Mercury Records]]|[[Polydor]]|[[Avex Group|Avex]]}}
 | website           = {{URL|10cc.world}}
 | current_members   = * [[Graham Gouldman]]
-* [[Paul Burgess (musician)|Paul Burgess]]
 * [[Rick Fenn]]
 * Keith Hayman
 * Iain Hornal
 * Andy Park
+* Ben Stone
 | past_members      = * [[Eric Stewart]]
 * [[Lol Creme]]
 * [[Kevin Godley]]
+* [[Paul Burgess (musician)|Paul Burgess]]
 * [[Stuart Tosh]]
 * [[Tony O'Malley (musician)|Tony O'Malley]]
 * [[Duncan Mackay (musician)|Duncan Mackay]]
@@ -91,7 +92,7 @@ Undeterred by Apple's rejection, the group decided to plug another song which ha
 
 King signed the band to his [[UK Records]] label in July 1972 and dubbed them 10cc. By his own account, King chose the name after having a dream in which he was standing in front of the [[Hammersmith Odeon]] in London where the boarding read "10cc The Best Band in the World". A widely repeated claim, disputed by King<ref>{{cite web |url=http://www.snopes.com/music/artists/10cc.asp |title=Snopes.com, "10cc" |date=14 February 2000 |publisher=Snopes.com |access-date=10 August 2010}}</ref> and Godley,<ref>{{cite web |url=http://rocknrolluniverse.com/rocknrolluniverse_456.htm |title=Interview with Kevin Godley, Rock N Roll Universe online interview, April&nbsp;2007 |publisher=Rocknrolluniverse.com |access-date=10 August 2010 |archive-url=https://web.archive.org/web/20110721225957/http://rocknrolluniverse.com/rocknrolluniverse_456.htm |archive-date=21 July 2011 |url-status=dead}}</ref> but confirmed in a 1988 interview with Creme,<ref>{{cite web |url=http://www.minestrone.org/pulse.htm |title=Godley & Creme interviewed in ''Pulse'' magazine, April&nbsp;1988 |publisher=Minestrone.org |access-date=10 August 2010 |archive-url=https://web.archive.org/web/20081120165059/http://www.minestrone.org/pulse.htm |archive-date=20 November 2008 |url-status=dead}}</ref> is that the band name represented ten [[cubic centimetre]]s, a volume of [[semen]] that was the average amount ejaculated (according to Creme), thus emphasizing their potency or prowess.
 
-However, in a 2025 interview, Gouldman stated: "We got bored with giving the long-winded reason for how we got the name, then someone told us the average male ejaculation was 9cc. Since we were 1cc more, we started saying it was the average male ejaculation. Is it a real fact? I have no idea! But it is now."<ref>{{cite web |url=https://www.theguardian.com/music/2025/jan/23/10ccs-graham-gouldman-every-west-indian-person-ive-spoken-to-loves-dreadlock-holiday-but-i-wouldnt-write-certain-lines-now |title=10cc’s Graham Gouldman: ‘Every West Indian person I’ve spoken to loves Dreadlock Holiday – but I wouldn’t write certain lines now’ |publisher=The Guardian |date=7 February 2025 |access-date=7 February 2025}}</ref> "Donna", released as the first 10cc single, was chosen by [[BBC Radio 1]] disc jockey [[Tony Blackburn]] as his Record of the Week, helping to launch it into the Top 30. The song peaked at No.&nbsp;2 in the UK in October 1972.
+However, in a 2025 interview, Gouldman stated: "We got bored with giving the long-winded reason for how we got the name, then someone told us the average male ejaculation was 9cc. Since we were 1cc more, we started saying it was the average male ejaculation. Is it a real fact? I have no idea! But it is now."<ref>{{cite web |url=https://www.theguardian.com/music/2025/jan/23/10ccs-graham-gouldman-every-west-indian-person-ive-spoken-to-loves-dreadlock-holiday-but-i-wouldnt-write-certain-lines-now |title=10cc's Graham Gouldman: 'Every West Indian person I've spoken to loves Dreadlock Holiday – but I wouldn't write certain lines now' |work=The Guardian |date=7 February 2025 |access-date=7 February 2025}}</ref> "Donna", released as the first 10cc single, was chosen by [[BBC Radio 1]] disc jockey [[Tony Blackburn]] as his Record of the Week, helping to launch it into the Top 30. The song peaked at No.&nbsp;2 in the UK in October 1972.
 
 Although their second single, a similarly 1950s-influenced song called "Johnny Don't Do It", was not a major chart success, "[[Rubber Bullets]]", a catchy satirical take on the "[[Jailhouse Rock (song)|Jailhouse Rock]]" concept, became a hit internationally and gave 10cc their first British No.&nbsp;1 single in June 1973. They consolidated their success a few months later with "[[The Dean and I]]", which peaked at No.&nbsp;10 in September. They released two singles, "Headline Hustler" (in the US) and the self-mocking "The Worst Band in the World" (in the UK) and launched a UK tour on 26 August 1973, joined by second drummer [[Paul Burgess (musician)|Paul Burgess]], before returning to Strawberry Studios in November to record the remainder of their second LP, ''[[Sheet Music (10cc album)|Sheet Music]]'' (1974), which included "The Worst Band in the World" along with other hits "[[The Wall Street Shuffle]]" (No.&nbsp;10, 1974) and "[[Silly Love]]" (No.&nbsp;24, 1974). ''Sheet Music'' became the band's breakthrough album, remaining on the UK charts for six months and paving the way for a US tour in February 1974.
 
@@ -191,16 +192,16 @@ In July 2017, a box set titled ''Before, During and After: The Story of 10cc'' w
 
 On March 11, 2024, the band announced their first North American tour in forty six years, The Ultimate, Ultimate Greatest Hits Tour, due to commence on July 24, 2024, at the [[Wellmont Theater]] in [[Montclair, New Jersey]].<ref name=":0">{{Cite web |last=Staff |first=Best Classic Bands |date=2024-03-20 |title=10cc Expands 2024 Tour, With First U.S. Shows in Over 30 Years |url=https://bestclassicbands.com/10cc-2024-tour-us-graham-gouldman-3-20-24/ |access-date=2024-08-16 |website=Best Classic Bands |language=en-GB}}</ref> Andy Park (vocals, guitars, bass, percussion, mandolin, keyboards) was brought in to sub for Iain Hornal, who was out performing with [[Electric Light Orchestra|Jeff Lynne's ELO]].<ref name=":0" />
 
-In 2025, [[Kevin Godley]] reunited with [[Graham Gouldman]] for a special performance as 10cc for an edition of ''BBC Radio 2's  Piano Room'' with the [[BBC Concert Orchestra]] conducted by [[Anne Dudley]]. Three songs were performed including [[I'm Not in Love]], new composition I Don't Want To Go To Heaven and a cover version of [[All I Have to Do Is Dream|All I Have To Do Is Dream]].<ref>{{cite web |title=Radio 2's Piano Room |url=https://www.bbc.co.uk/sounds/play/m0027lm0 |website=BBC Sounds |access-date=20 February 2025 |date=13 February 2025}}</ref> Gouldman has suggested that he might work with Godley again, but discounts a reunion with Stewart as the pair have not met up "in decades."<ref>{{cite web|title=“A 10cc reunion? It’s a hard no to that, I’m afraid”: Why Graham Gouldman is one of Britain’s greatest songwriters – even if people don’t know it|url=https://www.loudersound.com/features/graham-gouldman-10cc-heart-full-of-song-interview-2025|website=loudersound|date=5 March 2025|publisher=Louder Sound}}</ref> Godley and Gouldman confirmed in 2025 that neither have kept in touch with Creme.<ref>{{cite web|title=10cc: ‘One guy told me that I’m Not in Love destroyed his marriage’|url=https://www.telegraph.co.uk/music/interviews/10cc-im-not-in-love/?msockid=28e37fdb10656faa25406b83111a6e3a|website=The Telegraph|date=14 February 2025|publisher=The Telegraph}}</ref>
+In 2025, [[Kevin Godley]] reunited with [[Graham Gouldman]] for a special performance as 10cc for an edition of ''BBC Radio 2's  Piano Room'' with the [[BBC Concert Orchestra]] conducted by [[Anne Dudley]]. Three songs were performed including [[I'm Not in Love]], new composition I Don't Want To Go To Heaven and a cover version of [[All I Have to Do Is Dream|All I Have To Do Is Dream]].<ref>{{cite web |title=Radio 2's Piano Room |url=https://www.bbc.co.uk/sounds/play/m0027lm0 |website=BBC Sounds |access-date=20 February 2025 |date=13 February 2025}}</ref> Gouldman has suggested that he might work with Godley again, but discounts a reunion with Stewart as the pair have not met up "in decades."<ref>{{cite web|title="A 10cc reunion? It's a hard no to that, I'm afraid": Why Graham Gouldman is one of Britain's greatest songwriters – even if people don't know it|url=https://www.loudersound.com/features/graham-gouldman-10cc-heart-full-of-song-interview-2025|website=loudersound|date=5 March 2025|publisher=Louder Sound}}</ref> Godley and Gouldman confirmed in 2025 that neither have kept in touch with Creme.<ref>{{cite web|title=10cc: 'One guy told me that I'm Not in Love destroyed his marriage'|url=https://www.telegraph.co.uk/music/interviews/10cc-im-not-in-love/?msockid=28e37fdb10656faa25406b83111a6e3a|website=The Telegraph|date=14 February 2025}}</ref>
 
 ==Personnel==
 {{main|List of 10cc band members}}
 '''Current members'''
 * [[Graham Gouldman]] – bass guitar, lead and backing vocals, rhythm guitar, percussion <small>(1972–1983, 1991–1995, 1999–present)</small>
-* [[Paul Burgess (musician)|Paul Burgess]] – drums, percussion, backing vocals, keyboards, vibraphone <small>(1976–1983, 1999–present; touring member 1973–1976)</small>
 * [[Rick Fenn]] – lead guitar, backing and lead vocals, bass guitar, keyboards <small>(1976–1983, 1993–1995, 1999–present)</small>
 * Keith Hayman – keyboards, bass guitar, rhythm guitar, backing vocals <small>(2006–2011, 2016–present)</small>
 * Iain Hornal – lead and backing vocals, rhythm guitar, percussion, keyboards <small>(2018–present; substitute 2014–2018)</small>
+* Ben Stone – drums, percussion <small>(2025–present)</small>
 
 == Discography ==
 {{Main|10cc discography}}

@@ -47,7 +47,7 @@
 * [[Frank Zummo]]
 }}
 
-'''Sum 41''' <!-- PLEASE DO NOT CHANGE FROM "WAS" TO "IS". The band is no longer active as of March 30, 2025. -->was<!-- PLEASE DO NOT CHANGE FROM "WAS" TO "IS". The band is no longer active as of March 30, 2025. --> a Canadian [[Rock music|rock]] band formed in [[Ajax, Ontario]], in 1996. The band's final lineup consisted of [[Deryck Whibley]] (lead vocals, guitars, keyboards), [[Dave Baksh]] (lead guitar, backing vocals), [[Jason McCaslin]] (bass, backing vocals), [[Tom Thacker (musician)|Tom Thacker]] (guitars, keyboards, backing vocals), and [[Frank Zummo]] (drums, backing vocals).
+'''Sum 41''' <!-- PLEASE DO NOT CHANGE FROM "WAS" TO "IS". The band is no longer active as of March 30, 2025. -->was<!-- PLEASE DO NOT CHANGE FROM "WAS" TO "IS". The band is no longer active as of March 30, 2025. --> a Canadian [[Rock music|rock]] band formed in [[Ajax, Ontario]], in 1996. The band's final lineup consisted of [[Deryck Whibley]] (lead vocals, rhythm guitar, keyboards), [[Dave Baksh]] (lead guitar, backing vocals), [[Jason McCaslin]] (bass, backing vocals), [[Tom Thacker (musician)|Tom Thacker]] (rhythm and lead guitars, keyboards, backing vocals), and [[Frank Zummo]] (drums).
 
 In 1999, Sum 41 signed an international record deal with [[Island Records]] and released its first EP, ''[[Half Hour of Power]]'', in 2000. The band released its debut album, ''[[All Killer No Filler]]'', in 2001. The album achieved mainstream success with its first single, "[[Fat Lip]]", which reached number one on the [[Alternative Songs|''Billboard'' Modern Rock Tracks]] chart and remains the band's most successful single to date. The album's next singles "[[In Too Deep (Sum 41 song)|In Too Deep]]" and "[[Motivation (Sum 41 song)|Motivation]]" also achieved commercial success. ''All Killer No Filler'' was certified platinum in both the United States and the United Kingdom and triple platinum in Canada. In 2002, the band released ''[[Does This Look Infected?]]'', which was also a commercial and critical success. The singles "[[The Hell Song]]" and "[[Still Waiting (Sum 41 song)|Still Waiting]]" both charted highly on the modern rock charts.
 
@@ -276,7 +276,7 @@ Sum 41 - Southside Festival 2024 - 1DX 2926.jpg|Frank Zummo
 * [[Dave Baksh|Dave "Brownsound" Baksh]] – lead guitar, backing and occasional co-lead vocals (1997–2006; 2015–2025)<ref name="Wikipedia Fact or Fiction">{{cite web|first=Graham|last=Hartmann|url=http://loudwire.com/sum-41-wikipedia-fact-or-fiction/|title=Wikipedia Fact or Fiction|website=Loudwire.com|date=November 2, 2016|access-date=March 28, 2022}}</ref>
 * [[Jason McCaslin|Jason "Cone" McCaslin]] – bass, backing vocals (1999–2025)<ref name="altpress1">{{cite web|first=Annie|last=Zaleski|url=http://www.altpress.com/features/entry/it_feels_right_sum_41s_deryck_whibley_and_brownsound_discuss_reuniting|title="It feels right": Sum 41's Deryck Whibley and Brownsound discuss reuniting|publisher=altpress|date=August 14, 2015|access-date=March 28, 2022|archive-url=https://web.archive.org/web/20150816193053/http://www.altpress.com/features/entry/it_feels_right_sum_41s_deryck_whibley_and_brownsound_discuss_reuniting|archive-date=August 16, 2015|url-status=dead|df=mdy-all}}</ref>
 * [[Tom Thacker (musician)|Tom Thacker]] – lead guitar, backing and occasional lead vocals (2009–2025; touring 2007–2009),<ref name="altpress1"/><ref name="auto">{{cite web|first=Helen|last=Chan|url=http://emptylighthouse.com/sum-41-overcoming-worst-preparing-comeback-1252450918|title=Sum 41: Overcoming the Worst, Preparing for a Comeback|website=Emptylighthouse.com|date=June 2, 2015|access-date=January 18, 2018}}</ref> rhythm guitar (2015–2025), keyboards (2016–2025)
-* [[Frank Zummo]] – drums, occasional backing vocals (2015–2025)<ref name="altpress1"/>
+* [[Frank Zummo]] – drums, backing vocals (2015–2025)<ref name="altpress1"/>
 {{col-2}}
 '''Former'''
 * [[Steve Jocz|Steve "Stevo32" Jocz]] – drums, backing and occasional lead vocals (1996–2013)<ref name="Jocz"/>
@@ -308,7 +308,7 @@ Colors =
  id:rg     value:brightgreen  legend:Rhythm_guitar
  id:key    value:purple       legend:Keyboards
  id:b      value:blue         legend:Bass,_backing_vocals
- id:dr     value:orange       legend:Drums,_occasional_backing_vocals
+ id:dr     value:orange       legend:Drums,_backing_vocals
  id:studio value:black        legend:Studio_album
  id:EP     value:gray(0.7)    legend:EP
  id:bars   value:gray(0.95)

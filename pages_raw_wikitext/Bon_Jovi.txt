@@ -20,13 +20,14 @@
 * [[arena rock]]
 * [[pop rock]]
 }}
-| discography       = {{hlist|[[Bon Jovi discography|Discography]]|[[List of songs recorded by Bon Jovi|list of songs]]}}
+| works             = {{hlist|[[Bon Jovi discography|Discography]]|[[List of songs recorded by Bon Jovi|songs]]}}
 | years_active      = 1983–present
 | label             = {{flatlist|
 * [[Island Records|Island]]
 * [[Mercury Records|Mercury]]
 * [[Vertigo Records|Vertigo]]
 }}
+| awards            = [[List of awards and nominations received by Bon Jovi|Full list]]
 | website           = {{URL|bonjovi.com}}
 | current_members   = * [[Jon Bon Jovi]]
 * [[David Bryan]]
@@ -356,7 +357,8 @@ PlotData=
 * [[Because We Can: The Tour]] (2013)
 * [[Bon Jovi Live!]] (2015)
 * [[This House Is Not for Sale Tour]] (2017–2019)
-* Bon Jovi 2022 Tour (2022){{col-end}}
+* Bon Jovi 2022 Tour (2022)
+* Bon Jovi Forever Tour (2026){{col-end}}
 
 ==See also==
 * [[List of bestselling music artists]]

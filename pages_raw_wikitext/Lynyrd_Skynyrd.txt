@@ -10,9 +10,9 @@
 | discography       = [[Lynyrd Skynyrd discography|Discography]]
 | years_active      = {{hlist|{{start date|1964}}–{{end date|1977}}|1979
 |{{start date|1987}}–present}}
-| label             = {{hlist|[[MCA Records|MCA]]|[[Atlantic Records|Atlantic]]|[[Capricorn Records|Capricorn]]|[[CMC International]]|[[Sanctuary Records|Sanctuary]]|[[Universal Records (defunct record label)|Universal]]|[[Roadrunner Records|Roadrunner]]/Loud & Proud}}
+| label             = {{hlist|[[MCA Records|MCA]]|[[Atlantic Records|Atlantic]]|[[Capricorn Records|Capricorn]]|[[CMC International]]|[[Sanctuary Records|Sanctuary]]|[[Universal Records (defunct record label)|Universal]]|[[Roadrunner Records|Roadrunner]]/Loud & Proud}} [[Frontiers Music]]
 | website           = {{URL|lynyrdskynyrd.com}}
-| current_members   = <!--Members listed in accordance with Wikipedia guidelines.-->{{unbulleted list|[[Rickey Medlocke]]|[[Johnny Van Zant]]|Carol Chase|[[Michael Cartellone]]|[[Mark Matejka]]|[[Peter Keys]]|Robbie Harrington|[[Damon Johnson]]|Stacy Michelle}}
+| current_members   = <!--Members listed in accordance with Wikipedia guidelines.-->{{unbulleted list|[[Johnny Van Zant]]|[[Rickey Medlocke]]|[[Michael Cartellone]]|[[Mark Matejka]]|[[Peter Keys]]|[[Damon Johnson]]|Robbie Harrington|Stacey Michelle|Carol Chase}}
 | past_members      = See [[#Band members|band members section]] and [[List of Lynyrd Skynyrd members|members list article]]
 | module            = {{Infobox
 | child           = yes

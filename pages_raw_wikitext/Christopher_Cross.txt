@@ -42,7 +42,7 @@
 * [[The Alan Parsons Project]]
 * [[Deep Purple]]<ref>{{Cite web|url=https://ultimateclassicrock.com/christopher-cross-ritchie-blackmore-deep-purple-show/|title=The Night Christopher Cross Sat in With Deep Purple|first=Jeff|last=Giles|website=Ultimate Classic Rock|date=February 26, 2018 }}</ref>}}
 | spouse            = {{marriage|Roseanne Harrison|1973|1982|end=div}}<br>
-{{Marriage|Jan Bunch|2007|2013|end=div}}
+{{Marriage|Jan Bunch|1988|2007|end=div}}
 | website           = {{URL|christophercross.com}}
 }}
 '''Christopher Cross''' (born '''Christopher Charles Geppert'''; May 3, 1951) is an American singer-songwriter and [[guitarist]].
@@ -961,6 +961,7 @@ One common feature of Cross's album covers is the appearance of a [[flamingo]]. 
 [[Category:Singer-songwriters from California]]
 [[Category:American people of German descent]]
 [[Category:American people of Irish descent]]
+[[Category:American people of Jewish descent]]
 [[Category:The David Lee Roth Band members]]
 [[Category:Yacht rock musicians]]
 [[Category:Warner Records artists]]

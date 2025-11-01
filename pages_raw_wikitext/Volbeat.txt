@@ -170,9 +170,7 @@ BarData =
  bar:Teddy    text:"Teddy Vang"
  bar:Hellboss text:"Franz Gottschalk"
  bar:Thomas   text:"Thomas Bredahl"
- bar:Hank     text:"Hank Shermann"
  bar:Rob      text:"Rob Caggiano"
- bar:Flemming text:"Flemming C. Lund"
  bar:Anders   text:"Anders Kjølholm"
  bar:Kaspar   text:"Kaspar Boye Larsen"
  bar:Larsen   text:"Jon Larsen"
@@ -189,18 +187,14 @@ PlotData=
   bar:Larsen   from:start      till:end        color:drums
 
  width:7
-  bar:Hank     from:12/19/2011 till:12/31/2012 color:guitar
   bar:Rob      from:11/13/2015 till:05/02/2016 color:bass
-  bar:Flemming from:06/05/2023 till:end color:guitar
 
  width:3
   bar:Anders   from:start      till:11/13/2015 color:bvocals
   bar:Hellboss from:01/01/2002 till:12/12/2006 color:bvocals
   bar:Thomas   from:12/18/2006 till:11/28/2011 color:bvocals
-  bar:Hank     from:12/19/2011 till:12/31/2012 color:bvocals
   bar:Rob      from:02/04/2013 till:06/05/2023 color:bvocals
   bar:Kaspar   from:05/13/2016 till:end        color:bvocals
-  bar:Flemming from:06/05/2023 till:end color:bvocals
 
 }}
 

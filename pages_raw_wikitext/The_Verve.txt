@@ -1,20 +1,21 @@
 {{Short description|English rock band}}
 {{Distinguish|The Verve Pipe|Verve Records}}
+{{BLP sources|date=October 2025}}
 {{Use British English|date=January 2018}}
 {{Use dmy dates|date=January 2018}}
 {{Infobox musical artist <!-- See Wikipedia:WikiProject Musicians -->
 | name              = The Verve
 | image             = Verve MSG.jpg
 | caption           = The Verve performing at [[Madison Square Garden]] in 2008. From left to right: Nick McCabe, Peter Salisbury, Richard Ashcroft and, out of sight, Simon Jones
-| landscape         = no
+| landscape         = yes
 | background        = group_or_band
 | alias             = Verve (1990–1993)
 | origin            = [[Wigan]], [[Greater Manchester]], England
 | genre             = {{flatlist|
 * [[Neo-psychedelia]]
-* [[alternative rock]]<ref name="allmusic">{{cite web|last=Ankeny|first=Jason|title=The Verve {{!}} Biography & History|url=https://www.allmusic.com/artist/the-verve-mn0000575522/biography|access-date=22 November 2020|website=[[AllMusic]]}}</ref>
-* [[Britpop]]<ref>{{cite web|last=Ankeny|first=Jason|title=Richard Ashcroft {{!}} Biography & History|url=https://www.allmusic.com/artist/richard-ashcroft-mn0000290853/biography|access-date=22 November 2020|website=[[AllMusic]]}}</ref>
-* [[shoegaze]] (early)<ref>{{cite web|last=Ankeny|first=Jason|title=A Northern Soul – The Verve|url=https://www.allmusic.com/album/a-northern-soul-mw0000126607|access-date=22 August 2023|website=[[AllMusic]]}}</ref>
+* [[alternative rock]]
+* [[Britpop]]
+* [[shoegaze]] (early)
 }}
 | years_active      = {{flatlist|
 * 1990–1995
@@ -50,7 +51,7 @@
 
 Beginning with a [[Psychedelic rock|psychedelic]], [[shoegaze]] sound with their debut LP, ''[[A Storm in Heaven]]'', by 1997 the band had released three [[Extended play|EPs]] and three albums. They endured name and line-up changes, break-ups, health problems, drug abuse and various lawsuits. The band's commercial breakthrough was the 1997 album ''[[Urban Hymns]]'', one of the [[List of best-selling albums in the United Kingdom|best-selling albums]] in UK history.<ref>{{cite web|url=http://www.bpi.co.uk/assets/files/top%2040%20albums.pdf|title=Top 40 Best Selling Albums: 28 July 1956 – 14 June 2009|publisher=[[Official Charts Company]]|access-date=26 July 2011|archive-date=3 March 2016|archive-url=https://web.archive.org/web/20160303191500/http://www.bpi.co.uk/assets/files/top%2040%20albums.pdf|url-status=dead}}</ref> It features the hit singles "[[Bitter Sweet Symphony]]", "[[The Drugs Don't Work]]", "[[Sonnet (The Verve song)|Sonnet]]" and "[[Lucky Man (The Verve song)|Lucky Man]]". In 1998, the band won two [[Brit Awards]], winning Best British Group, appeared on the cover of ''[[Rolling Stone]]'' in March, and in February 1999, "Bitter Sweet Symphony" was nominated for the [[Grammy Award for Best Rock Song]].<ref name="The Brit Awards: The Verve">[http://www.brits.co.uk/artist/the-verve The Brit Awards: The Verve] {{webarchive|url=https://web.archive.org/web/20120202085636/http://www.brits.co.uk/artist/the-verve |date=2 February 2012 }} Brit Awards. Retrieved 11 February 2012</ref><ref name="Cover">[https://archive.today/20130201151421/http://www.rollingstone.com/music/photos/1998-rolling-stone-covers-20040512/rs784-verve-76576240 1998 Rolling Stone Covers] Rolling Stone. Retrieved 11 February 2012</ref><ref name="41st Grammy Awards – 1999">[http://www.rockonthenet.com/archive/1999/grammys.htm 41st Grammy Awards – 1999] Rock on the Net. Retrieved 12 February 2012</ref>
 
-Soon after their commercial peak, The Verve disbanded in 1999, citing internal conflicts.<ref name="reunion" /> According to ''[[Billboard (magazine)|Billboard]]'' magazine, "the group's rise was the culmination of a long, arduous journey that began at the dawn of the decade and went on to encompass a major breakup, multiple lawsuits, and an extensive diet of narcotics".<ref>[https://www.billboard.com/artist/419366/verve/biography "The Verve: Biography"]. ''Billboard''. Retrieved 19 April 2013 {{Webarchive|url=https://web.archive.org/web/20180919030413/https://www.billboard.com/artist/419366/verve/biography |date=19 September 2018 }}</ref> During an eight-year split, Ashcroft dismissed talk of a reunion, saying: "You're more likely to get all four [[The Beatles|Beatles]] on stage."<ref name="reunion">{{cite news|url=https://news.bbc.co.uk/2/hi/entertainment/6241596.stm|title=Rock band Verve announce reunion|work=BBC News|date=26 June 2007|access-date=23 March 2011}}</ref> The band reunited in 2007 and released ''[[Forth (album)|Forth]]'' in 2008, which spawned the single "[[Love Is Noise]]". Amid revived tensions, the band broke up for the third time in 2009.<ref name="OnHoliday">{{cite web |last=Gourlay |first=Dom |url=http://drownedinsound.com/in_depth/4151276-urban-hymns-at-20--dis-meets-nick-mccabe |title=Urban Hymns At 20: DiS Meets Nick McCabe |website=Drowned in Sound |date=29 August 2017 |access-date=29 April 2019 |archive-date=29 August 2017 |archive-url=https://web.archive.org/web/20170829111316/http://drownedinsound.com/in_depth/4151276-urban-hymns-at-20--dis-meets-nick-mccabe |url-status=dead }}</ref>
+Soon after their commercial peak, the band broke up in 1999, citing internal conflicts.<ref name="reunion" /> According to ''[[Billboard (magazine)|Billboard]]'' magazine, "the group's rise was the culmination of a long, arduous journey that began at the dawn of the decade and went on to encompass a major breakup, multiple lawsuits, and an extensive diet of narcotics".<ref>[https://www.billboard.com/artist/419366/verve/biography "The Verve: Biography"]. ''Billboard''. Retrieved 19 April 2013 {{Webarchive|url=https://web.archive.org/web/20180919030413/https://www.billboard.com/artist/419366/verve/biography |date=19 September 2018 }}</ref> During an eight-year split, Ashcroft dismissed talk of a reunion, saying: "You're more likely to get all four [[The Beatles|Beatles]] on stage."<ref name="reunion">{{cite news|url=https://news.bbc.co.uk/2/hi/entertainment/6241596.stm|title=Rock band Verve announce reunion|work=BBC News|date=26 June 2007|access-date=23 March 2011}}</ref> The band reunited in 2007 and released ''[[Forth (album)|Forth]]'' in 2008, which spawned the single "[[Love Is Noise]]". Amid revived tensions, the band broke up for the third time in 2009.<ref name="OnHoliday">{{cite web |last=Gourlay |first=Dom |url=http://drownedinsound.com/in_depth/4151276-urban-hymns-at-20--dis-meets-nick-mccabe |title=Urban Hymns At 20: DiS Meets Nick McCabe |website=Drowned in Sound |date=29 August 2017 |access-date=29 April 2019 |archive-date=29 August 2017 |archive-url=https://web.archive.org/web/20170829111316/http://drownedinsound.com/in_depth/4151276-urban-hymns-at-20--dis-meets-nick-mccabe |url-status=dead }}</ref>
 
 ==History==
 ===Formation and ''Verve'' (1990–1992)===

@@ -10,9 +10,9 @@
 | genre             = <!---All genres are sourced in the body. Now the genre field can look better. --->{{flatlist|
 * [[Alternative rock]]
 * [[nu metal]]
-* [[alternative metal]]
+* {{nowrap|[[alternative metal]]}}
 * [[rap metal]]
-* [[hard rock]]
+* {{nowrap|[[hard rock]]}}
 }}
 | discography       = [[Papa Roach discography]]
 | years_active      = 1993–present
@@ -221,7 +221,7 @@ File:2023 Rock im Park - Papa Roach - Anthony Esperance - by 2eight - ZSC2481 (c
 * Ryan Brown – drums <small>(1994)</small>
 
 '''Touring members'''
-* Anthony "Twan" Esperance – rhythm guitar, keyboard, percussion, backing vocals <small>(2017–present)</small>, lead guitar <small>(2020)</small><ref>{{Cite web |last= |date=2020-02-12 |title=PAPA ROACH Guitarist JERRY HORTON To Sit Out European Tour After Breaking Two Fingers |url=https://blabbermouth.net/news/papa-roach-guitarist-jerry-horton-to-sit-out-european-tour-after-breaking-two-fingers |access-date=2025-05-25 |website=BLABBERMOUTH.NET |language=en}}</ref><ref>{{Cite web |last= |date=2020-05-15 |title=See PAPA ROACH's JERRY HORTON Surprise His Bandmates In Europe After Breaking Finger |url=https://blabbermouth.net/news/see-papa-roachs-jerry-horton-surprise-his-bandmates-in-europe-after-breaking-finger |access-date=2025-05-25 |website=BLABBERMOUTH.NET |language=en}}</ref>
+* Anthony "Twan" Esperance – guitar, keyboards, percussion, backing vocals <small>(2017–present)</small><ref>{{Cite web |last= |date=2020-02-12 |title=PAPA ROACH Guitarist JERRY HORTON To Sit Out European Tour After Breaking Two Fingers |url=https://blabbermouth.net/news/papa-roach-guitarist-jerry-horton-to-sit-out-european-tour-after-breaking-two-fingers |access-date=2025-05-25 |website=BLABBERMOUTH.NET |language=en}}</ref><ref>{{Cite web |last= |date=2020-05-15 |title=See PAPA ROACH's JERRY HORTON Surprise His Bandmates In Europe After Breaking Finger |url=https://blabbermouth.net/news/see-papa-roachs-jerry-horton-surprise-his-bandmates-in-europe-after-breaking-finger |access-date=2025-05-25 |website=BLABBERMOUTH.NET |language=en}}</ref>
 
 '''Former touring members'''
 * Shawn Westmeister – drums <small>(2001)</small>
@@ -234,7 +234,7 @@ ImageSize = width:900 height:auto barincrement:19
 PlotArea = left:90 bottom:100 top:05 right:15
 Alignbars = justify
 DateFormat = dd/mm/yyyy
-Period = from:01/01/1993 till:13/09/2025 # it is best not to use auto-updating timelines as it can cause problems when the graphic updates on a daily basis
+Period = from:01/01/1993 till:01/01/2027
 TimeAxis = orientation:horizontal format:yyyy
 Legend = orientation:vertical position:bottom columns:3
 ScaleMajor = increment:4 start:1993
@@ -246,8 +246,8 @@ Colors =
  id:Guitar   value:green  legend:Guitar
  id:Bass     value:blue   legend:Bass
  id:Drums    value:orange legend:Drums
- id:Program  value:skyblue legend:Programming
- id:Trombone value:claret  legend:Trombone
+ id:Program  value:lavender legend:Programming
+ id:Trombone value:coral  legend:Trombone
  id:Albums   value:black  legend:Studio_release
 
 LineData = 
@@ -279,10 +279,10 @@ BarData =
 PlotData= 
  width:11 textcolor:black align:left anchor:from shift:(11,-4)
  bar:Shaddix   from:01/01/1993 till:end        color:Vocals
- bar:Shaddix   from:01/01/1993 till:01/01/1996 color:Program width:3
+ bar:Shaddix   from:01/01/1993 till:end        color:Program width:3
  bar:Horton    from:01/01/1993 till:end        color:Guitar
  bar:Horton    from:01/01/1993 till:01/03/1993 color:BVocals width:3
- bar:Horton    from:01/03/1993 till:end         color:BVocals width:3
+ bar:Horton    from:01/03/1993 till:end        color:BVocals width:3
  bar:Mikolajcik from:01/01/1993 till:01/03/1993 color:Guitar
  bar:Luther    from:01/01/1993 till:01/03/1993 color:Trombone
  bar:Luther    from:01/01/1995 till:01/01/1995 color:Trombone

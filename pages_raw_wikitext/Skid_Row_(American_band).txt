@@ -157,9 +157,9 @@ On March 27, 2024, after finishing the postponed shows, which ended in [[Sault S
 
 ==External links==
 {{Commons category|Skid Row}}
-* {{Official website|http://www.skidrow.com}}
+* {{Official website}}
 * {{AllMusic|class=artist|id=mn0000026367|label=Skid Row}}
-* {{Discogs artist|Skid Row}}
+* {{Discogs artist}}
 
 {{Skid Row}}
 

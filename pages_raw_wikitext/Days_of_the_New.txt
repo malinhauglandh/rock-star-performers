@@ -4,16 +4,14 @@
 {{Infobox musical artist
 | name              = Days of the New
 | image             = Days of the New promo 1997.jpg
-| image_size        = 
+|landscape=yes
 | caption           = The original line-up of Days of the New.{{break}}({{abbr|L–R|Left to right}}): [[Jesse Vest]], [[Todd Whitener]], Matt Taul and [[Travis Meeks]]
 | alias             = <!-- Do not add "Dead Reckoning" here; the documentation at template:Infobox musical artist says "For listing official stage names for the act or solo artist" (i.e. not former names) -->
 | origin            = [[Charlestown, Indiana]], U.S.
 | genre             = {{flatlist|
 * [[Post-grunge]]<ref name="Das of the new AllMusic rev genres">{{cite web|author=Stephen Thomas Erlewine|url=https://www.allmusic.com/album/days-of-the-new-mw0000024071|title=Days of the New - Days of the New AllMusic Review|work=[[AllMusic]]|access-date=April 20, 2023}}</ref><ref name="far out genres">{{cite web|first=Tim|last=Coffman|url=https://faroutmagazine.co.uk/the-history-of-grunge-in-10-songs/|title=Smells Like Seattle: the history of grunge in 10 songs|work=Far Out Magazine|date=February 12, 2023|access-date=April 20, 2023}}</ref>
 * [[alternative rock]]<ref name="Das of the new AllMusic rev genres"/>
-* [[grunge]]<ref name="far out genres"/>
-* [[Acoustic music|acoustic rock]]<ref name="Variety genres">{{cite web|author=Troy J. Augusto|url=https://variety.com/1998/music/reviews/days-of-the-new-1200452853/|title=Days of the New|work=[[Variety (magazine)|Variety]]|date=February 23, 1998|access-date=April 20, 2023}}</ref>
-* [[alternative metal]]<ref>{{cite web|first=Greg|last=Prato|url=https://www.allmusic.com/artist/layne-staley-mn0000123076/biography|title=Layne Staley {{!}} Biography & History|work=[[AllMusic]]|access-date=August 26, 2021}}</ref>
+* [[acoustic music|acoustic]]<ref name="Variety genres">{{cite web|author=Troy J. Augusto|url=https://variety.com/1998/music/reviews/days-of-the-new-1200452853/|title=Days of the New|work=[[Variety (magazine)|Variety]]|date=February 23, 1998|access-date=April 20, 2023}}</ref>
 }}
 | years_active      = 1995–2014
 | label             = {{flatlist|
@@ -24,8 +22,7 @@
 | spinoffs          = [[Tantric (band)|Tantric]]
 | website           = 
 | current_members   = 
-| past_members      = * [[Travis Meeks]]
-* [[Todd Whitener]]
+| past_members      = * [[Todd Whitener]]
 * [[Jesse Vest]]
 * Matt Taul
 * [[Mike Starr (musician)|Mike Starr]]
@@ -44,6 +41,8 @@
 * Dave Medcalf
 * Jess Gayle
 * Kimmet Cantwell
+* Doug Florio
+* [[Travis Meeks]]
 }}
 '''Days of the New''' was an American [[Rock music|rock]] band from [[Charlestown, Indiana]], formed in 1995.<ref name="The Great Rock Discography">{{Cite book
 | first= Martin C.
@@ -482,9 +481,10 @@ PlotData =
 {{Reflist|2}}
 
 ==External links==
-{{Commons category|Days of the New}}
-* [https://www.facebook.com/pages/Days-of-the-New-Presents-Tree-Colors/107603959267112 Official DOTN Site]
-* {{Discogs artist|Days Of The New}}
+{{Commons category}}
+* [https://www.facebook.com/officialdaysofthenew/ Days of the New] on Facebook
+* {{allmusic}}
+* {{Discogs artist}}
 
 {{Days of the New}}
 {{Nicole Scherzinger}}

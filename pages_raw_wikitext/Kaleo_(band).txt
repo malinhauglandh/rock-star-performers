@@ -79,7 +79,7 @@ The band is made up of:<ref>{{Cite web|url=http://www.icelandmusic.is/music/arti
 ! scope="col" rowspan="2"| Certifications
 |-
 ! scope="col" style="width:2.7em; font-size:90%;" | [[Tónlistinn|ICE]]<br/><ref>Peaks in Iceland:
-* ''Kaleo'': {{cite web|archiveurl=https://web.archive.org/web/20220724170720/https://plotutidindi.is/tonlistinn/|archivedate=24 July 2022|url=https://plotutidindi.is/tonlistinn/|title=Tónlistinn Vika 29 – 2022|language=is|website=Plötutíðindi|access-date=14 September 2023}}
+* ''Kaleo'': {{cite web|archiveurl=https://web.archive.org/web/20160331101645/http://plotutidindi.is/tonlistinn/|archivedate=31 March 2016|url=https://plotutidindi.is/tonlistinn/|title=Tónlistinn Vika 12 – 2016|language=is|website=Plötutíðindi|access-date=3 October 2025}}
 * ''A/B'': {{cite web|archiveurl=https://web.archive.org/web/20161226083054/https://plotutidindi.is/tonlistinn/|archivedate=26 December 2016|url=https://plotutidindi.is/tonlistinn/|title=Tónlistinn Vika 50 – 2016|language=is|website=Plötutíðindi|access-date=28 September 2022}}
 * ''Surface Sounds'': {{cite web|archiveurl=https://web.archive.org/web/20210506060223/https://plotutidindi.is/tonlistinn/|archivedate=6 May 2021|url=https://plotutidindi.is/tonlistinn/|title=Tónlistinn Vika 17 – 2021|language=is|website=Plötutíðindi|access-date=26 October 2022}}
 * ''Mixed Emotions'': {{cite web|archiveurl=https://web.archive.org/web/20250517004701/https://plotutidindi.is/tonlistinn/|archivedate=17 May 2025|url=https://plotutidindi.is/tonlistinn/|title=Tónlistinn Vika 20 – 2025|language=is|website=Plötutíðindi|access-date=19 May 2025}}</ref>
@@ -100,7 +100,7 @@ The band is made up of:<ref>{{Cite web|url=http://www.icelandmusic.is/music/arti
 * Released: 15 November 2013
 * Label: [[Sena (record company)|Sena]]
 * Formats: [[Music download|Digital download]]
-| 15 || — || — || — || — || — || — || — || — || —
+| 1 || — || — || — || — || — || — || — || — || —
 |
 * [[Music of Iceland|FHF]]: Platinum<ref name="FHF">{{cite web|url=http://plotutidindi.is/tonlistinn/|title=Tónlistinn – Plötur|trans-title=The Music – Albums|language=is|publisher=Plötutíðindi|access-date=6 May 2023|archive-url=https://web.archive.org/web/20220320010341/http://plotutidindi.is/tonlistinn/|archive-date=20 March 2022}}</ref>
 |-

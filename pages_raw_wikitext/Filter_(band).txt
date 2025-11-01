@@ -216,12 +216,11 @@ Filter's sound has been described as [[industrial rock]],<ref name="rs-review-ti
 |{{CSS image crop|Image=JohnSpiker.jpg|bSize=240|cWidth=75|cHeight=75|oTop=120|oLeft=65}}
 |[[John Spiker]]
 |{{Hlist|2008–2010}}
-|bass
+| rowspan="2" |bass
 |-
 |{{CSS image crop|Image=Lauren_Tarantino_and_Phil_Buckman_on_RealTVfilms.jpg|bSize=275|cWidth=75|cHeight=75|oTop=40|oLeft=152}}
 |[[Phil Buckman]]
 |2010–2013
-|{{Hlist|bass|backing vocals}}
 | rowspan="2" |none
 |-
 |{{CSS image crop|Image=640w q95 - Rob Patterson.jpg|bSize=270|cWidth=75|cHeight=75|oTop=45|oLeft=107}}

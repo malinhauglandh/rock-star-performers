@@ -180,7 +180,7 @@ Original saxophone player Joseph Frank D'Ambrosio (stage name Joey Ambrose; Marc
 *Al Pompilli - bass (1958; died 1973)<ref>{{cite news |title=Mention of death |url=https://www.newspapers.com/image/14693819/?match=1&terms=Albert%20Pompilii%20band |access-date=9 September 2025 |publisher=Delaware County Daily Times |date=2 November 1973 |pages=3}}</ref>
 *Al Rappa - bass (1959–1966; died 2021)<ref>[https://www.newcomerorlando.com/Obituary/202164/Albert-Rappa--Sr/Orlando-FL  "In Loving Memory of Albert Rappa Sr. 1927 - 2021"], ''Newcomer Cremations, Funerals & Receptions''. Retrieved August 3, 2021</ref>
 *Louis Torres - bass (1967–1968)
-*Rey Cawley - bass (1969–1974; died 1980)<ref name="The Bill Haley Who's Who"/><ref>{{cite news |title=Funeral Services Are Set For Auto Accident Victims |url=https://www.newspapers.com/image/1195183132/?match=1&terms=Reynold%20Cawley%20comets |access-date=9 September 2025 |publisher=The Times |date=12 July 1980 |pages=14}}</ref>
+*Rey Cawley - bass (1969–1974; died 1980)<ref name="The Bill Haley Who's Who"/><ref>{{cite news |title=Funeral Services Are Set For Auto Accident Victims |url=https://www.newspapers.com/image/1195183132/?match=1&terms=Reynold%20Cawley%20comets |access-date=9 September 2025 |work=The Times |date=12 July 1980 |pages=14}}</ref>
 *[[Dave "Chico" Ryan]] - bass (1979; died 1998)
 
 ===Drummers===
@@ -288,7 +288,7 @@ Original saxophone player Joseph Frank D'Ambrosio (stage name Joey Ambrose; Marc
 [[Category:Musical groups disestablished in 1981]]
 [[Category:1947 establishments in Pennsylvania]]
 [[Category:1981 disestablishments in Pennsylvania]]
-[[Category:Musical groups from Philadelphia]]
+[[Category:Rock music groups from Philadelphia]]
 [[Category:Rock music groups from Pennsylvania]]
 [[Category:American rockabilly music groups]]
 [[Category:Roulette Records artists]]

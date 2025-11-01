@@ -15,7 +15,7 @@
 * [[Post-grunge]]
 * [[hard rock]]
 * {{nowrap|[[alternative rock]]}}
-* [[alternative metal]]
+* {{nowrap|[[alternative metal]]}}
 * {{nowrap|[[nu metal]]}}
 }}<!-- these genres are sourced in the musical style section of the text -->
 | years_active = {{flatlist|

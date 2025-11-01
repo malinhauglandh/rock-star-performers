@@ -5,7 +5,6 @@
 {{Infobox musical artist
 | name              = ABBA
 | image             = ABBA - TopPop 1974 5.png
-| image_size        = 280px
 | landscape         = yes
 | caption           = ABBA in 1974; from left: [[Benny Andersson]], [[Anni-Frid Lyngstad|Anni-Frid "Frida" Lyngstad]], [[Agnetha Fältskog]], and [[Björn Ulvaeus]]
 | alias             = {{flatlist|
@@ -39,6 +38,7 @@
 * [[Hep Stars]]
 * [[Hootenanny Singers]]
   }}
+| awards            = [[List of awards and nominations received by ABBA|Full list]]
 | website           = {{URL|abbasite.com}}
 | past_members      = * [[Agnetha Fältskog]]
 * [[Björn Ulvaeus]]

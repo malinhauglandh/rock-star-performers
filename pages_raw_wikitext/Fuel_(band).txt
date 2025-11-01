@@ -133,7 +133,7 @@ In 2020, founding member and primary songwriter Carl Bell decided to return to t
 * [[Brett Scallions]] – lead vocals, rhythm guitar <small>(1993–2006, 2010–2020)</small>
 * Jeff Abercrombie – bass <small>(1993–2010)</small>
 * Jody Abbott – drums <small>(1993–1998; died 2022)</small>
-* Erik Avakian – keyboards, backing vocals <small>(1993–1994)</small>
+* Erik Avakian – keyboards, backing vocals <small>(1993–1996)</small>
 * [[Toryn Green]] – lead vocals <small>(2006–2010)</small>
 * [[Tommy Stewart]] – drums <small>(2004–2010)</small>
 * Ken Schalk – drums <small>(2010–2013)</small>
@@ -252,7 +252,7 @@ PlotData=
  bar:Nat         from:06/23/2021 till:end
 
  color:keys
- bar:Avakian     from:01/01/1993 till:03/01/1994
+ bar:Avakian     from:01/01/1993 till:09/01/1996
  bar:Bell        from:01/01/1998 till:07/25/2004 width:7
 
  color:drums
@@ -267,7 +267,7 @@ PlotData=
  color:bvocals width:3
  bar:Bell        from:01/01/1993 till:04/08/2010
  bar:Bell        from:06/23/2021 till:end
- bar:Avakian     from:01/01/1993 till:03/01/1994
+ bar:Avakian     from:01/01/1993 till:09/01/1996
  bar:Lonich      from:04/08/2010 till:06/25/2010
  bar:Lonich      from:01/16/2011 till:05/26/2011
  bar:Andersson   from:05/26/2011 till:12/01/2015

@@ -42,7 +42,7 @@
 * Blueblack Hussar
 }}
 | website         = {{URL|adam-ant.com}}
-| associated_acts = {{flatlist|
+| past_member_of  = {{flatlist|
 * [[Adam and the Ants]]
 * [[Bazooka Joe (band)|Bazooka Joe]]
 }}

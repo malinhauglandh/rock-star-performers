@@ -1,5 +1,5 @@
 {{short description|American rock band}}
-{{about|the musical ensemble|other uses|Lincoln Park (disambiguation) }}
+{{about|the band|other uses|Lincoln Park (disambiguation) }}
 {{Good article}}
 {{pp-semi-indef|small=yes}}
 {{pp-move}}
@@ -17,8 +17,8 @@
 | origin            = [[Agoura Hills, California]], U.S.
 | works             = {{flatlist|
 * [[Linkin Park albums discography|Albums]]
-* [[Linkin Park songs discography|songs]]
-* [[List of songs recorded by Linkin Park|songs recorded]]
+* [[Linkin Park singles discography|singles]]
+* [[List of songs recorded by Linkin Park|songs]]
 }}
 | genre             = {{flatlist|<!-- These genres are sourced in the "style and influences" section of the article text and have at least 3 sources each. -->
 * [[Alternative rock]]
@@ -36,6 +36,7 @@
 * [[Warner Records|Warner]]
 * [[Machine Shop Records|Machine Shop]]
 }}
+| awards            = [[List of awards and nominations received by Linkin Park|Full list]]
 | website           = {{URL|linkinpark.com}}
 | module            = [[File:Linkin Park wordmark 2024.svg|class=skin-invert|250px]]
 | current_members   = <!-- Do not change the order of the members per Template:Infobox musical artist. -->
@@ -58,7 +59,7 @@ Categorized mainly as [[alternative rock]] and [[nu metal]], Linkin Park's earli
 
 The band continued to explore a wider variation of musical types on their fourth album, ''[[A Thousand Suns]]'' (2010), layering their music with more [[Electronic music|electronic]] sounds. The band's fifth album, ''[[Living Things (Linkin Park album)|Living Things]]'' (2012), combined musical elements from all of their previous records. Their sixth album, ''[[The Hunting Party (album)|The Hunting Party]]'' (2014), returned to a heavier rock sound, while their seventh album, ''[[One More Light]]'' (2017), was a substantially more pop-oriented record. The band's eighth album, ''[[From Zero]]'' (2024), returned to more of their original sound while also incorporating musical elements from all of their previous records.
 
-Linkin Park is among both the best-selling bands of the 21st century and the [[List of best-selling music artists|world's best-selling music artists]], having sold over 100 million records worldwide.<ref>{{cite web|url=https://www.riaa.com/gold-platinum/|title=Gold & Platinum|website=[[Recording Industry Association of America|RIAA]]|access-date=January 29, 2020|archive-url=https://web.archive.org/web/20190209113439/https://www.riaa.com/gold-platinum/?tab_active=default-award&ar=EMMYLOU+HARRIS&ti=ELITE+HOTEL|archive-date=February 9, 2019|url-status=dead}}</ref> They have won two [[Grammy Award]]s, six [[American Music Awards]], four [[Billboard Music Award|''Billboard'' Music Awards]], four [[MTV Video Music Award]]s, 10 [[MTV Europe Music Award]]s, and three [[World Music Awards]]. In 2003, [[MTV2]] named Linkin Park the sixth-greatest band of the music video era and the third-best of the new millennium. ''[[Billboard (magazine)|Billboard]]'' ranked Linkin Park No. 19 on the Best Artists of the Decade list. In 2012, the band was voted as the greatest artist of the 2000s in a Bracket Madness poll on [[VH1]]. In 2014, the band was declared "the Biggest Rock Band in the World Right Now" by ''[[Kerrang!]]''.
+Linkin Park is among both the best-selling bands of the 21st century and the [[List of best-selling music artists|world's best-selling music artists]], having sold over 100 million records worldwide.<ref>{{cite web|url=https://www.riaa.com/gold-platinum/|title=Gold & Platinum|website=[[Recording Industry Association of America|RIAA]]|access-date=January 29, 2020|archive-url=https://web.archive.org/web/20190209113439/https://www.riaa.com/gold-platinum/?tab_active=default-award&ar=EMMYLOU+HARRIS&ti=ELITE+HOTEL|archive-date=February 9, 2019|url-status=dead}}</ref> They have won two [[Grammy Award]]s, seven [[American Music Awards]], four [[Billboard Music Award|''Billboard'' Music Awards]], four [[MTV Video Music Award]]s, 10 [[MTV Europe Music Award]]s, and three [[World Music Awards]]. In 2003, [[MTV2]] named Linkin Park the sixth-greatest band of the music video era and the third-best of the new millennium. ''[[Billboard (magazine)|Billboard]]'' ranked Linkin Park No. 19 on the Best Artists of the Decade list. In 2012, the band was voted as the greatest artist of the 2000s in a Bracket Madness poll on [[VH1]]. In 2014, the band was declared "the Biggest Rock Band in the World Right Now" by ''[[Kerrang!]]''.
 
 ==History==
 
@@ -209,7 +210,7 @@ Both ''Hybrid Theory'' and ''Meteora'' combine alternative metal,<ref>''Hybrid T
 ''Hybrid Theory'':
 {{cite web|first=Steven|last=Hyden|url=http://uproxx.com/music/linkin-park-chester-bennington-obituary-legacy/|title=Linkin Park's Chester Bennington Was A Rock Star At A Time When Rock Stars Were Rare|work=[[Uproxx]]|date=July 20, 2017|access-date=January 22, 2024|archive-date=February 10, 2018|archive-url=https://web.archive.org/web/20180210062122/http://uproxx.com/music/linkin-park-chester-bennington-obituary-legacy/|url-status=live}}
 ''Meteora'':
-* {{cite web|first=Alex|last=Young|url=https://consequence.net/2017/07/r-i-p-chester-bennington-linkin-park-singer-has-died-at-age-of-41/|title=R.I.P. Chester Bennington, Linkin Park singer has died at age of 41|date=July 20, 2017|access-date=January 22, 2024|archive-date=November 21, 2020|archive-url=https://web.archive.org/web/20201121163516/https://consequence.net/2017/07/r-i-p-chester-bennington-linkin-park-singer-has-died-at-age-of-41/|url-status=live}}</ref> sounds with elements of hip hop and electronica,<ref>{{cite web|url=http://music.yahoo.com/ar-303254-bio--Linkin-Park|title=Linkin Park Biography on Yahoo! Music|date=December 25, 2008|access-date=June 14, 2013|archive-url=https://web.archive.org/web/20081225224513/http://music.yahoo.com/ar-303254-bio--Linkin-Park|archive-date=December 25, 2008|url-status=dead}}</ref><ref>{{cite magazine|first=Joe|last=Lynch|url=https://www.billboard.com/music/rock/linkin-park-hybrid-theory-reviews-7873850/|title=Linkin Park's Landmark 'Hybrid Theory': Looking Back on the (Not So Nice) Reviews It Got In 2000|magazine=[[Billboard (magazine)|Billboard]]|date=July 20, 2017|access-date=January 22, 2024|archive-date=July 25, 2018|archive-url=https://web.archive.org/web/20180725133257/https://www.billboard.com/articles/columns/rock/7873850/linkin-park-hybrid-theory-reviews|url-status=live}}</ref> utilizing [[music programming|programming]] and synthesizers. William Ruhlmann from [[AllMusic]] regarded it as "a [[wikt:Johnny-come-lately|Johnny-come-lately]] to an already overdone musical style,"<ref>{{cite web|first=William|last=Ruhlmann|url=http://www.allmusic.com/album/hybrid-theory-mw0000102770|title=Hybrid Theory - Linkin Park AllMusic|work=[[AllMusic]]|access-date=January 22, 2024|archive-url=https://web.archive.org/web/20120914072821/http://www.allmusic.com:80/album/hybrid-theory-mw0000102770|archive-date=September 14, 2012|url-status=dead}}</ref> whereas ''[[Rolling Stone]]'' described their song "[[Breaking the Habit (song)|Breaking the Habit]]" as "risky, beautiful art".<ref>{{cite magazine|first=Barry|last=Walters|url=https://www.rollingstone.com/artists/linkinpark/albums/album/265830/review/6068021/meteora|title=Linkin Park: Meteora : Music Reviews : Rolling Stone|magazine=[[Rolling Stone]]|date=April 4, 2003|access-date=June 14, 2013|archive-url=https://web.archive.org/web/20090430185927/http://www.rollingstone.com/artists/linkinpark/albums/album/265830/review/6068021/meteora|archive-date=April 30, 2009|url-status=dead}}</ref>
+* {{cite web|first=Alex|last=Young|url=https://consequence.net/2017/07/r-i-p-chester-bennington-linkin-park-singer-has-died-at-age-of-41/|title=R.I.P. Chester Bennington, Linkin Park singer has died at age of 41|date=July 20, 2017|access-date=January 22, 2024|archive-date=November 21, 2020|archive-url=https://web.archive.org/web/20201121163516/https://consequence.net/2017/07/r-i-p-chester-bennington-linkin-park-singer-has-died-at-age-of-41/|url-status=live}}</ref> sounds with elements of hip hop and electronica,<ref>{{cite web|url=http://music.yahoo.com/ar-303254-bio--Linkin-Park|title=Linkin Park Biography on Yahoo! Music|date=December 25, 2008|access-date=June 14, 2013|archive-url=https://web.archive.org/web/20081225224513/http://music.yahoo.com/ar-303254-bio--Linkin-Park|archive-date=December 25, 2008|url-status=dead}}</ref><ref>{{cite magazine|first=Joe|last=Lynch|url=https://www.billboard.com/music/rock/linkin-park-hybrid-theory-reviews-7873850/|title=Linkin Park's Landmark 'Hybrid Theory': Looking Back on the (Not So Nice) Reviews It Got In 2000|magazine=[[Billboard (magazine)|Billboard]]|date=July 20, 2017|access-date=January 22, 2024|archive-date=July 25, 2018|archive-url=https://web.archive.org/web/20180725133257/https://www.billboard.com/articles/columns/rock/7873850/linkin-park-hybrid-theory-reviews|url-status=live}}</ref> utilizing [[music programming|programming]] and synthesizers. William Ruhlmann from [[AllMusic]] regarded it as "a [[wikt:Johnny-come-lately|Johnny-come-lately]] to an already overdone musical style,"<ref>{{cite web|first=William|last=Ruhlmann|url=http://www.allmusic.com/album/hybrid-theory-mw0000102770|title=Hybrid Theory - Linkin Park AllMusic|work=[[AllMusic]]|access-date=January 22, 2024|archive-url=https://web.archive.org/web/20120914072821/http://www.allmusic.com/album/hybrid-theory-mw0000102770|archive-date=September 14, 2012|url-status=dead}}</ref> whereas ''[[Rolling Stone]]'' described their song "[[Breaking the Habit (song)|Breaking the Habit]]" as "risky, beautiful art".<ref>{{cite magazine|first=Barry|last=Walters|url=https://www.rollingstone.com/artists/linkinpark/albums/album/265830/review/6068021/meteora|title=Linkin Park: Meteora : Music Reviews : Rolling Stone|magazine=[[Rolling Stone]]|date=April 4, 2003|access-date=June 14, 2013|archive-url=https://web.archive.org/web/20090430185927/http://www.rollingstone.com/artists/linkinpark/albums/album/265830/review/6068021/meteora|archive-date=April 30, 2009|url-status=dead}}</ref>
 
 In ''Minutes to Midnight,'' the band experimented with their established sound and drew influences from a wider and more varied range of genres and styles, a process ''[[Los Angeles Times]]'' compares to a stage in [[U2]]'s work.<ref name="latimes">{{cite news|url=https://www.latimes.com/archives/la-xpm-2007-may-15-et-linkin15-story.html|title=Remember where you're from|last=Powers|first=Ann|date=May 15, 2007|newspaper=Los Angeles Times|access-date=June 14, 2013|url-status=live|archive-url=https://web.archive.org/web/20110811110320/http://articles.latimes.com/2007/may/15/entertainment/et-linkin15|archive-date=August 11, 2011}}</ref> Only two songs on the album's tracklist feature rap vocals and the majority of the album can be considered as alternative rock.<ref>IGN, [https://www.ign.com/articles/2007/05/15/linkin-park-minutes-to-midnight Linkin Park – Minutes To Midnight] {{Webarchive|url=https://web.archive.org/web/20170712125156/http://www.ign.com/articles/2007/05/15/linkin-park-minutes-to-midnight |date=July 12, 2017 }}. Retrieved January 27, 2008.</ref><ref>Metacritic, [https://www.metacritic.com/music/minutes-to-midnight/linkin-park Minutes To Midnight] {{Webarchive|url=https://web.archive.org/web/20170902102331/http://www.metacritic.com/music/minutes-to-midnight/linkin-park |date=September 2, 2017 }}. Retrieved January 27, 2008.</ref>
 
@@ -334,12 +335,12 @@ PlotData =
  bar:Bourdon    from:start      till:10/27/2017 color:drums
  bar:Brittain   from:09/01/2023 till:end        color:drums
  width:7
- bar:Shinoda    from:03/01/2000      till:10/27/2017 color:rguitar
+ bar:Shinoda    from:03/01/2000 till:10/27/2017 color:rguitar
  bar:Shinoda    from:09/01/2023 till:end        color:rguitar
  bar:Delson     from:01/01/2007 till:10/27/2017 color:keys
  bar:Hahn       from:03/01/2000 till:10/27/2017 color:keys
  bar:Hahn       from:09/01/2023 till:end        color:keys
- bar:Delson     from:09/01/2023 till:end color:keys
+ bar:Delson     from:09/01/2023 till:end        color:keys
  width:3
  bar:Shinoda    from:start      till:10/27/2017 color:keys
  bar:Shinoda    from:09/01/2023 till:end        color:keys
@@ -353,7 +354,7 @@ PlotData =
  bar:Delson     from:09/01/2023 till:end        color:bvocals
  bar:Brittain   from:09/01/2023 till:end        color:bvocals
  bar:Bourdon    from:03/01/2000 till:10/27/2017 color:bvocals
- width:3
+
 }}
 
 ==Discography==

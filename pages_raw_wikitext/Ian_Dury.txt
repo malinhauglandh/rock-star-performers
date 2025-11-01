@@ -70,7 +70,7 @@ The Blockheads briefly reformed in June 1987 to play a short tour of Japan, and 
 
 The Blockheads (minus Jankel, who returned to California) toured Spain in January 1991, then disbanded again until August 1992 when, following Jankel's return to England, they were invited to reform for the [[Madstock!]] Festival in [[Finsbury Park]];<ref>{{cite web |url=https://www.setlist.fm/setlist/ian-dury-and-the-blockheads/1992/finsbury-park-london-england-13ddf5d9.html |title=Ian Dury & The Blockheads Setlist |publisher=Setlist.fm |access-date=18 June 2018 |archive-date=19 June 2018 |archive-url=https://web.archive.org/web/20180619140124/https://www.setlist.fm/setlist/ian-dury-and-the-blockheads/1992/finsbury-park-london-england-13ddf5d9.html |url-status=live }}</ref> this was followed by sporadic gigs in Europe, Ireland, the UK and Japan in late 1994 and 1995.<ref name="Blockheads official website"/> In the early 1990s, Dury appeared with English band [[Curve (band)|Curve]] on the benefit compilation album ''[[Peace Together]]''. Dury and Curve singer [[Toni Halliday]] shared vocals on a cover of the Blockheads' track "What a Waste".{{cn|date=April 2023}}
 
-In March 1996 Dury was diagnosed with cancer and, after recovering from an operation, he set about writing another album. In late 1996 he reunited with the Blockheads to record the album ''[[Mr. Love Pants]]'' (1997). Ian Dury and the Blockheads resumed touring, with Dylan Howe replacing Steven Monti on drums. Davey Payne left the group permanently in August and was replaced by [[Gilad Atzmon]]; this line-up gigged throughout 1999, culminating in their last performance with Ian Dury on 6 February 2000 at the [[London Palladium]]. Dury died six weeks later on 27 March 2000.<ref name="Blockheads official website"/>
+In March 1996 Dury was diagnosed with cancer and, after recovering from an operation, he set about writing another album. In late 1996 he reunited with the Blockheads to record the album ''[[Mr. Love Pants]]'' (1998). Ian Dury and the Blockheads resumed touring, with Dylan Howe replacing Steven Monti on drums. Davey Payne left the group permanently in August and was replaced by [[Gilad Atzmon]]; this line-up gigged throughout 1999, culminating in their last performance with Ian Dury on 6 February 2000 at the [[London Palladium]]. Dury died six weeks later on 27 March 2000.<ref name="Blockheads official website"/>
 
 The Blockheads have continued after Dury's death, and continue to play live gigs {{as of|lc=yes|2023}}.<ref>{{cite web | title=Live gigs | website=The Blockheads | url=https://www.theblockheads.com/live-gigs/ | archive-url=https://web.archive.org/web/20230318001226/https://www.theblockheads.com/live-gigs/ | archive-date=18 March 2023 | url-status=live | access-date=28 April 2023}}</ref>
 
@@ -196,7 +196,7 @@ Dury married sculptor Sophy Tilson in 1998, with whom he had two children Bill a
 |-
 | rowspan="2" | 1988 || ''[[The Raggedy Rawney]]'' || Weazel ||
 |-
-| ''{{interlanguage link|Burning Beds|de|Brennende Betten}}'' || Harry Winfield ||
+| ''{{interlanguage link|Brennende Betten}}'' || Harry Winfield || Shot in Germany ||
 |-
 | rowspan="3" | 1989 || ''[[The Voice (1989 film)|The Voice]]'' || Kowalski ||
 |-
@@ -269,7 +269,7 @@ Dury married sculptor Sophy Tilson in 1998, with whom he had two children Bill a
 [[Category:English people with disabilities]]
 [[Category:English punk rock musicians]]
 [[Category:Epic Records artists]]
-[[Category:Golders Green Crematorium]]
+[[Category:People cremated at Golders Green Crematorium]]
 [[Category:British male new wave singers]]
 [[Category:Musicians from Kent]]
 [[Category:People educated at the Royal Grammar School, High Wycombe]]

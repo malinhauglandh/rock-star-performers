@@ -169,7 +169,7 @@ In 2021 and 2023, the band [[Blossoms (band)|Blossoms]] and the singer [[Rick As
 {{col-begin}}
 {{col-2}}
 '''Principal members'''
-* [[Morrissey]] – lead vocals (1982–1987), piano (1987)
+* [[Morrissey]] – lead vocals (1982–1987)
 * [[Johnny Marr]] – guitars, piano, keyboards, harmonica (1982–1987)
 * [[Andy Rourke]] – bass (1982–1986, 1986–1987; died 2023)
 * [[Mike Joyce (musician)|Mike Joyce]] – drums, percussion (1982–1987)
@@ -265,8 +265,7 @@ BarData =
 
 PlotData=
   width:11
- bar:Morrissey      from:start      till:28/09/1987 color:vocals  
- bar:Morrissey      from:01/07/1987 till:28/09/1987 color:keyboards width:3   
+ bar:Morrissey      from:start      till:28/09/1987 color:vocals     
  bar:Marr           from:start      till:01/07/1987 color:guitar
  bar:Marr           from:01/01/1983 till:01/07/1987 color:harmonica width:3
  bar:Marr           from:01/01/1984 till:01/07/1987 color:keyboards width:7
@@ -337,9 +336,9 @@ PlotData=
 [[Category:English alternative rock groups]]
 [[Category:English indie pop groups]]
 [[Category:English indie rock groups]]
+[[Category:English jangle pop groups]]
 [[Category:English musical quartets]]
 [[Category:English post-punk music groups]]
-[[Category:English jangle pop groups]]
 [[Category:Musical groups disestablished in 1987]]
 [[Category:Musical groups established in 1982]]
 [[Category:NME Awards winners]]

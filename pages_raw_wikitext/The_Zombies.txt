@@ -17,7 +17,7 @@
  | [[R&B]]<ref>Yeah Yeah Yeah
 The Story of Modern Pop
 By Bob Stanley · 2013</ref>
- | [[proto-prog]]<ref>{{citation|last1=Hegarty|first1=Paul|last2=Halliwell|first2=Martin|title=Beyond and Before: Progressive Rock Since the 1960s|year=2011|publisher=The Continuum International Publishing Group|location=New York|isbn=978-0-8264-2332-0|author-link1=Paul Hegarty (musician)|url=https://books.google.com/books?id=taA2AqdCAJ0C |page=11}}</ref>
+ | [[proto-prog]]<ref>{{cite book|last1=Hegarty|first1=Paul|last2=Halliwell|first2=Martin|title=Beyond and Before: Progressive Rock Since the 1960s|year=2011|publisher=The Continuum International Publishing Group|location=New York|isbn=978-0-8264-2332-0|author-link1=Paul Hegarty (musician)|url=https://books.google.com/books?id=taA2AqdCAJ0C |page=11}}</ref>
  }}
 | years_active      = {{flatlist|
 * 1962<ref name=PM /><ref>{{Cite web|url=https://www.forbes.com/sites/jimclash/2020/06/08/how-did-the-1960s-band-the-zombies-come-up-with-their-strange-name/|title=How Did The 1960s Band The Zombies Come Up With Their Strange Name?|first=Jim|last=Clash|website=Forbes}}</ref><ref>{{Cite web|url=https://www.tampabay.com/news/humaninterest/the-zombies-famous-1960s-rockers-are-coming-to-largo/1242318/|title=The Zombies, famous 1960s rockers, are coming to Largo|first=Theodora |last=Aggeles|website=Tampa Bay Times}}</ref><ref>{{Cite web|url=https://www.bclocalnews.com/entertainment/the-zombies-and-the-lasting-legacy-of-odessey-and-oracle/|title=The Zombies, and the lasting legacy of "Odessey and Oracle"|date=23 July 2020|website=BC Local News}}</ref>–1967
@@ -57,13 +57,13 @@ By Bob Stanley · 2013</ref>
 * [[Darian Sahanaja]]
 }}
 
-'''The Zombies''' are an English [[Rock music|rock]] band formed in [[St Albans]] in 1962<ref>https://www.mrzeros.com/blog/the-zombies-1962-1968/</ref>. Led by keyboardist/vocalist [[Rod Argent]] and lead vocalist [[Colin Blunstone]], the group had their first British and American hit in 1964 with "[[She's Not There]]". In the US, two further singles—"[[Tell Her No]]" in 1965 and "[[Time of the Season]]" in 1968—were also successful.<ref name=ALLMUSIC>{{cite web|first=Richie |last=Unterberger|author-link=Richie Unterberger |url=http://www.allmusic.com/artist/the-zombies-mn0000582313/biography |title=The Zombies &#124; Biography |website=[[AllMusic]] |access-date=18 August 2015}}</ref>
+'''The Zombies''' are an English [[Rock music|rock]] band formed in [[St Albans]] in 1962<ref name="auto">{{Cite web|url=https://www.mrzeros.com/blog/the-zombies-1962-1968/|title=the Zombies: 1962 – 1968 – Mr Zeros|website=Mrzeros.com|date=27 February 2019|access-date=3 October 2025}}</ref>. Led by keyboardist/vocalist [[Rod Argent]] and lead vocalist [[Colin Blunstone]], the group had their first British and American hit in 1964 with "[[She's Not There]]". In the US, two further singles—"[[Tell Her No]]" in 1965 and "[[Time of the Season]]" in 1968—were also successful.<ref name=ALLMUSIC>{{cite web|first=Richie |last=Unterberger|author-link=Richie Unterberger |url=http://www.allmusic.com/artist/the-zombies-mn0000582313/biography |title=The Zombies &#124; Biography |website=[[AllMusic]] |access-date=18 August 2015}}</ref>
 
-Their 1968 album ''[[Odessey and Oracle]]'' was ranked number 100 on ''[[Rolling Stone]]''{{'}}s 2012 list of the [[Rolling Stone's 500 Greatest Albums of All Time|500 Greatest Albums of All Time]],<ref>{{cite magazine|url=https://www.rollingstone.com/music/lists/500-greatest-albums-of-all-time-20120531/the-zombies-odessey-and-oracle-20120525 |title=The Zombies, 'Odessey and Oracle' - 500 Greatest Albums of All Time |magazine=Rolling Stone |date=31 May 2012 |access-date=5 December 2015}}</ref> and number 243 on ''Rolling Stone''{{'}}s 2020 list.<ref>{{cite magazine|url=https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/the-zombies-odessey-and-oracle-2-1062990/ |title=The Zombies, 'Odessey and Oracle' - 500 Greatest Albums of All Time |magazine=Rolling Stone |date=22 September 2020 |access-date=22 March 2022}}</ref> The Zombies were inducted into the [[Rock and Roll Hall of Fame]] in 2019.<ref>{{cite web|title=CLASS OF 2019 INDUCTEES|url=https://www.rockhall.com/2019-inductees/|website=Rock & Roll Hall of Fame|access-date=13 December 2018|language=en}}</ref>
+Their 1968 album ''[[Odessey and Oracle]]'' was ranked number 100 on ''[[Rolling Stone]]''{{'}}s 2012 list of the [[Rolling Stone's 500 Greatest Albums of All Time|500 Greatest Albums of All Time]],<ref>{{cite magazine|url=https://www.rollingstone.com/music/lists/500-greatest-albums-of-all-time-20120531/the-zombies-odessey-and-oracle-20120525 |title=The Zombies, 'Odessey and Oracle' - 500 Greatest Albums of All Time |magazine=Rolling Stone |date=31 May 2012 |access-date=5 December 2015}}</ref> and number 243 on ''Rolling Stone''{{'}}s 2020 list.<ref>{{cite magazine|url=https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/the-zombies-odessey-and-oracle-2-1062990/ |title=The Zombies, 'Odessey and Oracle' - 500 Greatest Albums of All Time |magazine=Rolling Stone |date=22 September 2020 |access-date=22 March 2022}}</ref> The Zombies were inducted into the [[Rock and Roll Hall of Fame]] in 2019.<ref>{{cite web|title=CLASS OF 2019 INDUCTEES|url=https://www.rockhall.com/2019-inductees/|website=Rockhall.com|access-date=13 December 2018|language=en}}</ref>
 
 ==History==
 ===1961–1964===
-[[File:Blacksmiths Arms St. Albans and Zombies' Plaque.jpg|thumb|right|250px|The Blacksmiths Arms [[Pub|public house]] in [[St Albans]], Hertfordshire, where the Zombies first met]]Three members of the band, [[Rod Argent]], [[Paul Atkinson (guitarist)|Paul Atkinson]] and [[Hugh Grundy]], first came together to jam in 1961 in [[St Albans]], Hertfordshire. Argent wanted to form a band and initially asked his elder cousin [[Jim Rodford]] to join as a bassist. At the time, Rodford was in a successful local band, the Bluetones, and so declined, but he offered to help Argent. Rodford would later join [[Argent]] in 1969, as well as The Zombies in 2004 when the band reformed. [[Colin Blunstone]] and Paul Arnold joined the other three to form the band in early 1962<ref>https://www.mrzeros.com/blog/the-zombies-1962-1968/</ref> while all five members were at school.<ref>{{cite news |url=https://www.independent.co.uk/arts-entertainment/music/features/the-zombies-interview-colin-blunstone-rod-argent-b2317760.html |title='People would run at us with scissors trying to get locks of hair': The Zombies on their enduring legacy, passing on 'Your Song' and their new record |newspaper=The Independent |date=12 April 2023 |access-date=30 April 2023}}</ref>
+[[File:Blacksmiths Arms St. Albans and Zombies' Plaque.jpg|thumb|right|250px|The Blacksmiths Arms [[Pub|public house]] in [[St Albans]], Hertfordshire, where the Zombies first met]]Three members of the band, [[Rod Argent]], [[Paul Atkinson (guitarist)|Paul Atkinson]] and [[Hugh Grundy]], first came together to jam in 1961 in [[St Albans]], Hertfordshire. Argent wanted to form a band and initially asked his elder cousin [[Jim Rodford]] to join as a bassist. At the time, Rodford was in a successful local band, the Bluetones, and so declined, but he offered to help Argent. Rodford would later join [[Argent]] in 1969, as well as The Zombies in 2004 when the band reformed. [[Colin Blunstone]] and Paul Arnold joined the other three to form the band in early 1962<ref name="auto"/> while all five members were at school.<ref>{{cite news |url=https://www.independent.co.uk/arts-entertainment/music/features/the-zombies-interview-colin-blunstone-rod-argent-b2317760.html |title='People would run at us with scissors trying to get locks of hair': The Zombies on their enduring legacy, passing on 'Your Song' and their new record |newspaper=The Independent |date=12 April 2023 |access-date=30 April 2023}}</ref>
 
 Some sources state that Argent, Atkinson and Grundy were at [[St Albans School (Hertfordshire)|St Albans School]], while Blunstone and Arnold were students at [[Verulam School|St Albans Boys' Grammar School]]. Both Blunstone and Grundy came from [[Hatfield, Hertfordshire|Hatfield]] and both sang in the choir there at [[St Etheldreda's Church, Hatfield|St Etheldreda's Church]].<ref>{{cite web |last=Bateman |first=Aarom |url=http://www.hendontimes.co.uk/archive/display.var.434582.0.zombies_heyday_recalled.php |title=Zombies' heyday recalled |work=Hendon & Finchley Times |date=20 November 2003 |archive-url=https://web.archive.org/web/20070503053115/http://www.hendontimes.co.uk/archive/display.var.434582.0.zombies_heyday_recalled.php |archive-date=3 May 2007 }}</ref><ref>{{cite web|url=http://www.classicbands.com/zombies.html |title=The Zombies |website=Classicbands.com |access-date=18 August 2015}}</ref> Argent was a boy chorister in [[St Albans Cathedral Choir]]. They held their original rehearsals at the Pioneer Club, then situated on Hatfield Road, using equipment lent to them by the Bluetones. They met outside the Blacksmiths Arms pub in St Albans before their first rehearsal and gained their initial reputation playing the Old Verulamians Rugby Club there.
 
@@ -75,7 +75,7 @@ Originally named the "Mustangs", the band soon realised that other groups had th
 Arnold lost interest in the band, choosing to leave to become a physician; he was replaced by [[Chris White (musician)|Chris White]], a friend of Arnold's older brother Terry.<ref>{{cite web|author=Pore-Lee-Dunn Productions |url=http://www.classicbands.com/zombies.html |title=The Zombies |publisher=Classicbands.com |access-date=18 August 2015}}</ref>{{sfn|Johansen|2001|p=44}} As Atkinson later described: "[Arnold] wasn't terribly dedicated. He liked the idea of being in a group, and he liked playing bass, but to be honest [he] was a little lazy. He didn't like to rehearse very much."{{sfn|Johansen|2001|p=42}}
 
 ===Recording contract===
-In May 1964 the band won a £250 cash prize in a beat-group competition organised by the [[Watford Borough Council]] and sponsored by the London ''[[The Evening News (London newspaper)|Evening News]]''.<ref name=Zombies2019>{{Cite web|url=https://www.rockhall.com/sites/default/files/2019-11/The%20Cars_2019.pdf|title=An Original British Invasion Band, They Made A Handful Of Smash Singles And One Of Rock's Most Exquisite Albums|website=rockhall.com/|language=en|access-date=2 August 2023}}</ref><ref name=HallOfFame>{{cite web|work=Rock & Roll Hall of Fame Library & Archives|title=Rock & Roll Hall of Fame Library & Archives - Reference Number ARC-0959|url=https://axiell.rockhall.com/rrhof-ais/Details/archive/110000969}}</ref>{{sfn|Johansen|2001|p=64}} They signed a recording contract with [[Decca Records|Decca]] and recorded their first hit, "[[She's Not There]]". It was released in mid-1964 and peaked at No. 12 in the UK, becoming their only UK [[Top 40]] hit. The tune began to catch on in the United States and eventually climbed to No. 2 in early December. It sold over one million copies and was awarded a [[music recording sales certification|gold certification]] by the [[Recording Industry Association of America]] (RIAA).<ref name="The Book of Golden Discs">{{cite book
+In May 1964 the band won a £250 cash prize in a beat-group competition organised by the [[Watford Borough Council]] and sponsored by the London ''[[The Evening News (London newspaper)|Evening News]]''.<ref name=Zombies2019>{{Cite web|url=https://www.rockhall.com/sites/default/files/2019-11/The%20Cars_2019.pdf|title=An Original British Invasion Band, They Made A Handful Of Smash Singles And One Of Rock's Most Exquisite Albums|website=Rockhall.com|language=en|access-date=2 August 2023}}</ref><ref name=HallOfFame>{{cite web|work=Rock & Roll Hall of Fame Library & Archives|title=Rock & Roll Hall of Fame Library & Archives - Reference Number ARC-0959|url=https://axiell.rockhall.com/rrhof-ais/Details/archive/110000969}}</ref>{{sfn|Johansen|2001|p=64}} They signed a recording contract with [[Decca Records|Decca]] and recorded their first hit, "[[She's Not There]]". It was released in mid-1964 and peaked at No. 12 in the UK, becoming their only UK [[Top 40]] hit. The tune began to catch on in the United States and eventually climbed to No. 2 in early December. It sold over one million copies and was awarded a [[music recording sales certification|gold certification]] by the [[Recording Industry Association of America]] (RIAA).<ref name="The Book of Golden Discs">{{cite book
 | first= Joseph
 | last= Murrells
 | year= 1978
@@ -104,7 +104,7 @@ In 1967, frustrated by their continuing lack of success, the Zombies left Decca 
 
 The band's budget did not stretch to session musicians, so they used a [[Mellotron]] to fill out their arrangements.  According to Argent,<ref>{{Cite magazine|last=Hiatt|first=Brian|date=1 June 2019|title=Five Things We Learned About the Zombies|url=https://www.rollingstone.com/music/music-features/zombies-band-interview-podcast-842990/|access-date=3 August 2021|magazine=Rolling Stone|language=en-US}}</ref><ref>{{Cite web |last=Pingitore |first=Silvia |date=29 February 2020 |title=Rod Argent, The Zombies and John Lennon's mellotron: interview |url=https://the-shortlisted.co.uk/rod-argent-the-zombies-interview/ |access-date=3 August 2021 |website=the-shortlisted.co.uk |language=en-GB}}</ref><ref>{{Cite web|last=Umile|first=Dominic|title=Mods and Mellotrons: The Zombies at Abbey Road, PopMatters|url=https://www.popmatters.com/166784-mods-and-mellotrons-the-zombies-at-abbey-road-2495787881.html|access-date=3 August 2021|website=PopMatters|date=15 January 2013 |language=en-US}}</ref> they used [[John Lennon|John Lennon's]] Mellotron, which had been left in the studio after [[the Beatles]]' sessions for ''[[Sgt. Pepper's Lonely Hearts Club Band]]''. The album was mixed into the standard mono; however, as another concession toward their limited budget, Argent and White (who, due to their songwriting royalties, had earned more than the rest of the members) personally paid for stereo mixes.<ref name="Russo">{{cite book |last=Russo |first=Greg |title=Time of the Season: The Zombies Collector Guide |date=12 August 2008 |publisher=Crossfire Publications |isbn=9780979184505}}</ref>
 
-The change in direction was evident on their first single released by CBS, "[[Care of Cell 44]]", a song about the anticipation felt while waiting for the singer's partner to be released from prison.  It is also notable that the title of the song does not appear anywhere in the lyrics.  Unfortunately, like their previous Decca releases, it failed to reach the charts. A second CBS single, "Friends of Mine", was also unsuccessful.
+The change in direction was evident on their first single released by CBS, "[[Care of Cell 44]]", a song about the anticipation felt while waiting for the singer's partner to be released from prison.  It is also notable that the title of the song does not appear anywhere in the lyrics.  Unfortunately, like their previous Decca releases, it failed to reach the charts. A second CBS single, "[[Friends of Mine (The Zombies song)|Friends of Mine]]", was also unsuccessful.
 
 ===Band break-up===
 With the band experiencing a declining demand for live appearances, they split up after a final gig in mid-December 1967.{{sfn|Johansen|2001|p=201}}
@@ -149,7 +149,7 @@ In 2005 Blunstone and Argent released a DVD and 2-CD album (''Live at the Blooms
  | first = Alexis
  | newspaper = The Guardian
  | date = 10 March 2008
-| url = http://music.guardian.co.uk/live/story/0,,2263788,00.html
+| url = https://www.theguardian.com/music/2008/mar/10/popandrock.alexispetridis
 | location=London
 | title=The Zombies
 | access-date=25 May 2010
@@ -182,21 +182,21 @@ In 2017 the four surviving original members ([[Colin Blunstone]], [[Rod Argent]]
 Commenting on the album's half-century of popularity, Argent said, “At the time we made it, we would have thought it was complete craziness that the songs would resonate 50 years later".<ref name=UnusualPath/>
 
 ===Rock and Roll Hall of Fame===
-On 16 October 2013 the Zombies were announced as nominees for inclusion to the [[Rock and Roll Hall of Fame]],<ref>{{cite magazine |last=Greene |first=Andy |url=https://www.rollingstone.com/music/news/nirvana-kiss-hall-and-oates-nominated-for-rock-and-roll-hall-of-fame-20131016 |title=Nirvana, Kiss, Hall and Oates Nominated for Rock and Roll Hall of Fame |magazine=Rolling Stone |date=16 October 2013 |access-date=18 August 2015}}</ref> the first nomination for the band since coming into eligibility in 1990. The Zombies were nominated again for the Hall in 2016 and in October 2017. They were announced as one of seven inductees for the 2019 class in December 2018. The band were inducted into the [[Rock and Roll Hall of Fame]] in 2019.<ref name=HallOfFame2019>{{Cite web|url=https://www.rockhall.com/inductees/zombies|title=The Zombies|website=rockhall.com/|language=en|access-date=2 August 2023}}</ref>
+On 16 October 2013 the Zombies were announced as nominees for inclusion to the [[Rock and Roll Hall of Fame]],<ref>{{cite magazine |last=Greene |first=Andy |url=https://www.rollingstone.com/music/news/nirvana-kiss-hall-and-oates-nominated-for-rock-and-roll-hall-of-fame-20131016 |title=Nirvana, Kiss, Hall and Oates Nominated for Rock and Roll Hall of Fame |magazine=Rolling Stone |date=16 October 2013 |access-date=18 August 2015}}</ref> the first nomination for the band since coming into eligibility in 1990. The Zombies were nominated again for the Hall in 2016 and in October 2017. They were announced as one of seven inductees for the 2019 class in December 2018. The band were inducted into the [[Rock and Roll Hall of Fame]] in 2019.<ref name=HallOfFame2019>{{Cite web|url=https://www.rockhall.com/inductees/zombies|title=The Zombies|website=Rockhall.com/|language=en|access-date=2 August 2023}}</ref>
 
 ===Most recent tours===
 In May 2019 the Zombies announced a co-headlining tour with Brian Wilson and Al Jardine of [[The Beach Boys]] called "Something Great From ’68’" featuring the Zombies performing ''[[Odessey and Oracle]]'', in addition to other greatest hits. This tour would also feature the four surviving original members ([[Colin Blunstone]], [[Rod Argent]], [[Chris White (musician)|Chris White]] and [[Hugh Grundy]]) in addition to the band's current line-up.<ref>{{Cite web|url=https://liveforlivemusic.com/news/beach-boys-brian-wilson-zombies-tour-2019/|title=Beach Boys' Brian Wilson, The Zombies Announce 'Something Great From '68' Co-Headlining Tour|date=7 May 2019|website=Liveforlivemusic.com}}</ref>
 
-In late 2021, the band announced they would be undertaking extensive tours of Britain, the US, Canada and Europe between February and September 2022.<ref>[https://www.rockcellarmagazine.com/the-zombies-band-2022-tour-dates-details/ "The Zombies Announce ‘Life Is A Merry-Go-Round Tour’ for 2022", ''Rock Cellar'', November 16, 2021]. Retrieved 10 January 2022</ref><ref>[https://www.thezombiesmusic.com/live  Live, ''The Zombies'']. Retrieved 10 January 2022</ref>  However, in January 2022 it was announced that the UK part of the tour would be postponed until 2023.<ref>[https://underthebridge.co.uk/events/the-zombies/#:~:text=Zombies%20postponement%20announcement!&text=We%20regret%20to%20announce%20that,time%20before%20he%20can%20perform. "The Zombies", ''Under the Bridge'']. Retrieved 21 January 2022</ref>
+In late 2021, the band announced they would be undertaking extensive tours of Britain, the US, Canada and Europe between February and September 2022.<ref>[https://www.rockcellarmagazine.com/the-zombies-band-2022-tour-dates-details/ "The Zombies Announce ‘Life Is A Merry-Go-Round Tour’ for 2022", ''Rock Cellar'', November 16, 2021]. Retrieved 10 January 2022</ref><ref>[https://www.thezombiesmusic.com/live  Live, ''The Zombies'']. Retrieved 10 January 2022</ref>  However, in January 2022 it was announced that the UK part of the tour would be postponed until 2023.<ref>[https://underthebridge.co.uk/events/the-zombies/#:~:text=Zombies%20postponement%20announcement!&text=We%20regret%20to%20announce%20that,time%20before%20he%20can%20perform. "The Zombies"], ''Underthebridge.co.uk''. Retrieved 21 January 2022</ref>
 [[File:The_Zombies_18Oct2023.jpg|thumb|The Zombies performing at the [[Royal Oak Music Theatre]] in [[Royal Oak, Michigan|Royal Oak]], [[Michigan]], 18 October 2023.]]
-In October 2023, the band performed at the [[Royal Oak Music Theatre]]<ref>[https://www.royaloakmusictheatre/ ''Royal Oak Music Theatre'']. Retrieved 19 October 2023</ref> in [[Royal Oak, Michigan|Royal Oak]], [[Michigan]].
+In October 2023, the band performed at the [[Royal Oak Music Theatre]]<ref>[https://www.royaloakmusictheatre/ Royal Oak Music Theatre]. ''Royaloakmusictheatre'', Retrieved 19 October 2023</ref> in [[Royal Oak, Michigan|Royal Oak]], [[Michigan]].
 
-On 11 July 2024 it was announced that 79 year old Rod Argent would be retiring from touring after suffering a stroke following the completion of a UK tour<ref>https://people.com/the-zombies-rod-argent-announces-retirement-from-touring-following-stroke-8676787</ref>. A projected fall tour of the US was then canceled.
+On 11 July 2024 it was announced that 79 year old Rod Argent would be retiring from touring after suffering a stroke following the completion of a UK tour<ref>{{Cite web|url=https://people.com/the-zombies-rod-argent-announces-retirement-from-touring-following-stroke-8676787|title=The Zombies' Rod Argent Announces Retirement from Touring as He Recovers from Stroke|website=People.com|access-date=3 October 2025}}</ref>. A projected fall tour of the US was then canceled.
 
-A festival, called Begin Here, celebrated Rod Argent's legacy and retirement. The festival, held in St Albans on 8-10 November 2024, included a special performance, "The Zombies & Friends: A Tribute to Rod Argent," on 9 November at the [[Eric Morecambe]] Centre in [[Harpenden]]. Other highlights included a performance of Colin Blunstone's album ''One Year''<ref>https://www.bbc.com/news/articles/c4gpqpy154ro</ref>. After this Blunstone continued to tour and perform as a solo act<ref>https://www.zrock.com/iconic-singer-from-the-zombies-colin-blunstone-on-solo-tour-through-arizona/</ref>.
+A festival, called Begin Here, celebrated Rod Argent's legacy and retirement. The festival, held in St Albans on 8-10 November 2024, included a special performance, "The Zombies & Friends: A Tribute to Rod Argent," on 9 November at the [[Eric Morecambe]] Centre in [[Harpenden]]. Other highlights included a performance of Colin Blunstone's album ''One Year''<ref>{{Cite web|url=https://www.bbc.com/news/articles/c4gpqpy154ro|title=The Zombies' last concert in St Albans ‘tinged with sadness’|date=9 November 2024|website=Bbc.com|access-date=3 October 2025}}</ref>. After this Blunstone continued to tour and perform as a solo act<ref>{{Cite web|url=https://www.zrock.com/iconic-singer-from-the-zombies-colin-blunstone-on-solo-tour-through-arizona/|title=Iconic Singer from The Zombies Colin Blunstone on solo tour through Arizona|first=Cat|last=Sprague|website=Zrock.com|date=19 February 2025|access-date=3 October 2025}}</ref>.
 
 == Hung Up On A Dream Documentary ==
-[[Hung Up on a Dream: The Zombies Documentary|Hung Up On A Dream]] is a documentary film chronicling the six-decade career of British rock band The Zombies, from their teenage beginnings to their induction into the [[Rock and Roll Hall of Fame|Rock & Roll Hall of Fame]]. The film was released May 2025 in theatres across the US, and garnered rave reviews and a 90% “Rotten Tomatoes” score.<ref>{{Cite web |title=Hung up on a Dream: The Zombies Documentary {{!}} Rotten Tomatoes |url=https://www.rottentomatoes.com/m/hung_up_on_a_dream_the_zombies_documentary |access-date=2025-05-29 |website=www.rottentomatoes.com |language=en}}</ref> Directed by [[Robert Schwartzman]], the film features archival footage, interviews with the surviving original members, and appearances by band’s admirers such as [[Paul Weller]], [[Dave Grohl]], [[Hayley Williams]], [[Harry Styles]], [[Haim (band)|HAIM]], [[Post Malone]] and [[Finneas O'Connell|FINNEAS]].
+[[Hung Up on a Dream: The Zombies Documentary|Hung Up On A Dream]] is a documentary film chronicling the six-decade career of British rock band The Zombies, from their teenage beginnings to their induction into the [[Rock and Roll Hall of Fame|Rock & Roll Hall of Fame]]. The film was released May 2025 in theatres across the US, and garnered rave reviews and a 90% “Rotten Tomatoes” score.<ref>{{Cite web |title=Hung up on a Dream: The Zombies Documentary |url=https://www.rottentomatoes.com/m/hung_up_on_a_dream_the_zombies_documentary |access-date=2025-05-29 |website=Rottentomatoes.com |language=en}}</ref> Directed by [[Robert Schwartzman]], the film features archival footage, interviews with the surviving original members, and appearances by band’s admirers such as [[Paul Weller]], [[Dave Grohl]], [[Hayley Williams]], [[Harry Styles]], [[Haim (band)|HAIM]], [[Post Malone]] and [[Finneas O'Connell|FINNEAS]].
 
 According to [[Colin Blunstone|Blunstone]], “It’s been an emotional journey seeing The Zombies’ story brought to life in Robert’s beautifully-made film.”
 
@@ -220,7 +220,7 @@ Richie Unterberger of ''[[AllMusic]]'' wrote: "Aside from [[the Beatles]] and pe
 * [[Paul Atkinson (guitarist)|Paul Atkinson]] – guitar, occasional backing vocals <small>(1962–1967, 1989, 1997, 2004; died 2004)</small>
 * Paul Arnold – bass guitar <small>(1962)</small>
 * Rick Birkett – guitar <small>(1968)</small>
-* [[Jim Rodford]] – bass guitar, backing vocals <small>(1968, 2004–2018; died 2018)</small><ref>{{Citation |title=The Zombies - Zombie Heaven |date=12 December 1997 |url=https://www.discogs.com/release/2180814-The-Zombies-Zombie-Heaven |language=en |access-date=22 March 2022}}</ref>
+* [[Jim Rodford]] – bass guitar, backing vocals <small>(1968, 2004–2018; died 2018)</small><ref>{{Cite web|website=Discogs.com|title=The Zombies - Zombie Heaven |date=12 December 1997 |url=https://www.discogs.com/release/2180814-The-Zombies-Zombie-Heaven |language=en |access-date=22 March 2022}}</ref>
 * [[Russ Ballard]] – guitar <small>(1968)</small>
 * [[Bob Henrit]] – drums <small>(1968)</small>
 * [[Sebastian Santa Maria]] – keyboards, guitar, backing vocals <small>(1989–1991; died 1996)</small>
@@ -293,6 +293,7 @@ PlotData =
  bar:CB from:01/01/2001 till:end        color:lvocals
 
  bar:PA from:02/04/1961 till:15/12/1967 color:guitar
+ bar:PA from:02/04/1961 till:15/12/1967 color:bvocals width:3
  bar:RB1 from:01/03/1968 till:31/08/1968 color:guitar
  bar:RB2 from:01/09/1968 till:31/12/1968 color:guitar
  bar:PA from:01/11/1989 till:01/11/1989 color:guitar
@@ -362,6 +363,7 @@ PlotData =
  bar:SK from:01/02/2018 till:end        color:bvocals  width:3
 
  bar:HG from:02/04/1961 till:15/12/1967 color:drums
+ bar:HG from:02/04/1961 till:15/12/1967 color:bvocals width:3
  bar:HG from:01/03/1968 till:31/08/1968 color:drums
  bar:BH from:01/09/1968 till:31/12/1968 color:drums
  bar:HG from:01/07/1989 till:15/04/1991 color:drums
@@ -396,7 +398,7 @@ PlotData =
 === Live albums ===
 *''Live on the BBC 1965-1967'' (1985) (Same tracks re-released in different configurations and titles)
 *''Live at the Bloomsbury Theatre, London'' (2004) (also on DVD)
-*''On the BBC Radio'' (2007)<ref>{{Citation|title=The Zombies - On The BBC Radio (2007)|url=http://archive.org/details/the-zombies-on-the-bbc-radio-2007|access-date=19 April 2021}}</ref>
+*''On the BBC Radio'' (2007)<ref>{{Cite web|website=Archive.org|title=The Zombies - On The BBC Radio (2007)|url=http://archive.org/details/the-zombies-on-the-bbc-radio-2007|access-date=19 April 2021}}</ref>
 *''Odessey and Oracle: 40th Anniversary Live Concert'' (2008) (also on DVD)
 *''Live in Concert at Metropolis Studios'' (2012)
 *''Live in the UK'' (2013)
@@ -421,7 +423,7 @@ PlotData =
 *''The Singles: A's and B's'' (2005)
 *''The Ultimate Zombies'' (2007)
 *''Into the Afterlife'' (2007) <small>(Compilation of recordings in between The Zombies and the member's solo careers. Features a few Zombies songs.)</small>
-*''Zombies & Beyond'' (2008) UK #43 <small>(Features some Zombies songs and some solo songs)</small>
+*''Zombies & Beyond'' (2008) UK No. 43 <small>(Features some Zombies songs and some solo songs)</small>
 *''Time of the Season'' (2017)<ref>{{Cite web|url=https://www.amazon.co.uk/Time-Season-Gatefold-Electric-Vinyl/dp/B01MUCL70Y/ref=sr_1_2?ie=UTF8&qid=1540993061&sr=8-2&keywords=zombies+vinyl|title=Time Of The Season Electric|date=17 February 2017|website=Amazon.co.uk}}</ref>
 
 === Contributions ===
@@ -551,7 +553,7 @@ PlotData =
 | —
 |
 |-
-! scope="row"| "Friends of Mine"<br /><small>b/w "Beechwood Park"</small>
+! scope="row"| "[[Friends of Mine (The Zombies song)|Friends of Mine]]"<br /><small>b/w "Beechwood Park"</small>
 | —
 | —
 | —
@@ -559,7 +561,7 @@ PlotData =
 | —
 | —
 |
-| rowspan="3" | ''[[Odessey and Oracle]]''
+| rowspan="4" | ''[[Odessey and Oracle]]''
 |-
 ! scope="row"| "[[Care of Cell 44]]"<br /><small>b/w "Maybe After He's Gone"</small>
 | —
@@ -570,7 +572,7 @@ PlotData =
 | —
 |
 |-
-! scope="row"| "[[Time of the Season]]"<br /><small>b/w "I'll Call You Mine" </small><br><small>b/w "Friends of Mine" (1969 US re-release)</small>
+! scope="row"| "[[Time of the Season]]"<br /><small>b/w "I'll Call You Mine" </small><br><small>b/w "[[Friends of Mine (The Zombies song)|Friends of Mine]]" (1969 US re-release)</small>
 | rowspan="2"| 1968
 | —
 | 43
@@ -590,7 +592,6 @@ PlotData =
 | —
 | —
 |
-| ''Odessey and Oracle''
 |-
 ! scope="row" | "[[Imagine the Swan]]"<br /><small>b/w "Conversation Off Floral Street"</small>
 | rowspan="2" |1969
@@ -638,7 +639,7 @@ PlotData =
 {{wikiquote}}
 *[http://www.thezombiesmusic.com/  Official Zombies website]
 *[{{AllMusic|class=artist|id=p5908|pure_url=yes}} The Zombies biography at the AMG website]
-*[http://music.guardian.co.uk/pop/story/0,,2258641,00.html Album of the living dead - Guardian interview]
+*[https://www.theguardian.com/music/2008/feb/22/popandrock1 Album of the living dead - Guardian interview]
 *[http://larecord.com/interviews/2008/07/16/the-zombies-maybe-we-should-have-waited-a-bit-longer/ July 2008 interview] with ''[[L.A. Record]]''
 *[https://www.npr.org/event/music/453961125/hear-the-zombies-perform-odessey-and-oracle-live/ 3 November 2015 article and music], [[NPR Music]]
 *{{Discogs artist}}

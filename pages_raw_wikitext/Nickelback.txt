@@ -3,21 +3,21 @@
 {{pp-blp|small=yes}}
 {{Use mdy dates|date=September 2022}}
 {{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
-| name                = Nickelback
-| image               = Nickelback AMAs 2011.png
-| caption             = Nickelback in 2011 {{break}}Left to Right: Chad Kroeger, Daniel Adair, Mike Kroeger, Ryan Peake
-| landscape           = yes
-| background          = group_or_band
-| origin              = [[Hanna, Alberta|Hanna]], [[Alberta]], Canada
-| genre               = <!--All genres sourced in the "Musical styles" section.-->{{flatlist|
+| name              = Nickelback
+| image             = Nickelback AMAs 2011.png
+| caption           = Nickelback in 2011 {{break}}Left to Right: Chad Kroeger, Daniel Adair, Mike Kroeger, Ryan Peake
+| landscape         = yes
+| background        = group_or_band
+| origin            = [[Hanna, Alberta]], Canada
+| genre             = <!--All genres sourced in the "Musical styles" section.-->{{flatlist|
 * [[Post-grunge]]
 * [[hard rock]]
 * {{nowrap|[[alternative rock]]}}
 * [[alternative metal]]
 * [[pop rock]]
 }}
-| years_active        = 1995–present
-| label               = {{flatlist|
+| years_active      = 1995–present
+| label             = {{flatlist|
 * [[EMI Records|EMI Canada]]
 * [[Roadrunner Records|Roadrunner]]
 * [[Atlantic Records|Atlantic]]
@@ -26,20 +26,20 @@
 * [[Republic Records|Republic]]
 * [[BMG Rights Management|BMG]]
 }}
-| website             = {{URL|nickelback.com}}
-| current_members     = {{plainlist|
+| website           = {{URL|nickelback.com}}
+| current_members   = {{plainlist|
 * [[Chad Kroeger]]
 * [[Ryan Peake]]
 * [[Mike Kroeger]]
 * [[Daniel Adair]]
 }}
-| past_members        = {{plainlist|
+| past_members      = {{plainlist|
 * Brandon Kroeger
 * Mitch Guindon
 * Ryan Vikedal
 }}
 }}
-'''Nickelback'''  is a Canadian [[Rock music|rock]] band formed in 1995 in [[Hanna, Alberta|Hanna]], [[Alberta]]. Throughout its history, it has consisted of lead guitarist and lead vocalist [[Chad Kroeger]], rhythm guitarist, keyboardist and backing vocalist [[Ryan Peake]], and bassist [[Mike Kroeger]]. It went through several drummer changes between 1995 and 2005 before [[Daniel Adair]] joined.
+'''Nickelback'''  is a Canadian [[Rock music|rock]] band formed in 1995 in [[Hanna, Alberta]]. Throughout its history, it has consisted of lead guitarist and lead vocalist [[Chad Kroeger]], rhythm guitarist, keyboardist and backing vocalist [[Ryan Peake]], and bassist [[Mike Kroeger]]. It went through several drummer changes between 1995 and 2005 before [[Daniel Adair]] joined.
 
 The band signed with [[Roadrunner Records]] in 1999 and reached a mainstream breakthrough in 2002 with the single "[[How You Remind Me]]", which reached number one in the United States and Canada. Its parent album, ''[[Silver Side Up]]'', would go on to be certified 8× Platinum in Canada.<ref>{{Cite web |title=Chad Kroeger Looks Back on Releasing Nickelback's 'Silver Side Up' on 9/11 |url=https://exclaim.ca/music/article/chad_kroeger_looks_back_on_releasing_nickelbacks_silver_side_up_on_9_11 |access-date=2022-12-23 |website=Exclaim!}}</ref> Nickelback's fourth album, ''[[The Long Road]]'', was released in 2003 and spawned five singles, including Canadian number one "[[Someday (Nickelback song)|Someday]]", which also reached No. 7 on the [[Billboard Hot 100|''Billboard'' Hot 100]].<ref>{{cite web|url=https://www.allmusic.com/artist/nickelback-p410589/charts-awards/billboard-singles |title=Nickelback |publisher=AllMusic |date=November 13, 2008 |access-date=March 5, 2012}}</ref>
 

@@ -24,7 +24,7 @@
 | website           = {{URL|chubbychecker.com}}
 }}
 
-'''Ernest Evans''' (born October 3, 1941), known professionally as '''Chubby Checker''', is an American [[rock 'n' roll]] singer and dancer. He is known for popularizing many dance styles, including [[Twist (dance)|the Twist]], with his 1960 hit cover of [[Hank Ballard]] & [[The Midnighters]]' R&B song "[[The Twist (song)|The Twist]]", and the [[pony (dance)|Pony]], with his 1961 cover of the song "[[Pony Time]]". His biggest UK hit, "[[Let's Twist Again]]", was released one year later (in 1962). That year, he also popularized the song "[[Limbo Rock]]", a previous-year instrumental hit by [[the Champs]] to which he added lyrics and its trademark [[Limbo (dance)|Limbo dance]]. He also introduced other dance styles, such as [[The Fly (Chubby Checker song)|the Fly]]. In September 2008, "The Twist" topped ''[[Billboard (magazine)|Billboard]]''{{'}}s list of the most popular [[single (music)|singles]] to have appeared in the [[Billboard Hot 100|Hot 100]] since its debut in 1960, an honor it maintained in an August 2013 update of the list.<ref>{{cite magazine|url=http://www.billboard.com/articles/list/2155531/the-hot-100-all-time-top-songs|title=Hot 100 55th Anniversary: The All-Time Top 100 Songs|magazine=Billboard|access-date=26 October 2017|archive-date=July 26, 2013|archive-url=https://web.archive.org/web/20130726075338/http://www.billboard.com/articles/list/2155531/the-hot-100-all-time-top-songs|url-status=live}}</ref> In 2014, Checker was inducted into the [[National Rhythm & Blues Hall of Fame]], and he was selected for induction into the [[Rock and Roll Hall of Fame]] in 2025.<ref name="rr25">{{cite web |title=The Rock & Roll Hall of Fame Foundation unveils electrifying class of 2025 inductees |url=https://rockhall.com/press-release/the-rock-roll-hall-of-fame-foundation-unveils-electrifying-class-of-2025-inductees/ |website=Rock & Roll Hall of Fame |access-date=28 April 2025}}</ref>
+'''Ernest Evans''' (born October 3, 1941), known professionally as '''Chubby Checker''', is an American [[rock and roll]] singer and dancer. He is known for popularizing many dance styles, including [[Twist (dance)|the Twist]], with his 1960 hit cover of [[Hank Ballard]] & [[The Midnighters]]' R&B song "[[The Twist (song)|The Twist]]", and the [[pony (dance)|Pony]], with his 1961 cover of the song "[[Pony Time]]". His biggest UK hit, "[[Let's Twist Again]]", was released one year later (in 1962). That year, he also popularized the song "[[Limbo Rock]]", a previous-year instrumental hit by [[the Champs]] to which he added lyrics and its trademark [[Limbo (dance)|Limbo dance]]. He also introduced other dance styles, such as [[The Fly (Chubby Checker song)|the Fly]]. In September 2008, "The Twist" topped ''[[Billboard (magazine)|Billboard]]''{{'}}s list of the most popular [[single (music)|singles]] to have appeared in the [[Billboard Hot 100|Hot 100]] since its debut in 1960, an honor it maintained in an August 2013 update of the list.<ref>{{cite magazine|url=http://www.billboard.com/articles/list/2155531/the-hot-100-all-time-top-songs|title=Hot 100 55th Anniversary: The All-Time Top 100 Songs|magazine=Billboard|access-date=26 October 2017|archive-date=July 26, 2013|archive-url=https://web.archive.org/web/20130726075338/http://www.billboard.com/articles/list/2155531/the-hot-100-all-time-top-songs|url-status=live}}</ref> In 2014, Checker was inducted into the [[National Rhythm & Blues Hall of Fame]], and he was selected for induction into the [[Rock and Roll Hall of Fame]] in 2025.<ref name="rr25">{{cite web |title=The Rock & Roll Hall of Fame Foundation unveils electrifying class of 2025 inductees |url=https://rockhall.com/press-release/the-rock-roll-hall-of-fame-foundation-unveils-electrifying-class-of-2025-inductees/ |website=Rock & Roll Hall of Fame |access-date=28 April 2025}}</ref>
 
 ==Early life==
 Checker was born Ernest Evans in [[Spring Gully, South Carolina]].<ref>{{cite book|first=Benjamin V|last=Franklin|title=An Encyclopedia of South Carolina Jazz and Blues Musicians|url=https://books.google.com/books?id=jsnYCwAAQBAJ&pg=PT147|date=30 May 2016|publisher=[[University of South Carolina Press]]|location=Columbia, South Carolina|isbn=978-1-61117-622-3|page=147}}</ref> He was raised in [[the projects]] of [[South Philadelphia]], where he lived with his parents, Raymond and Eartle Evans,<ref>UPI Telephoto (NAP 122601), December 1963.</ref> and two brothers.<ref name= Chubby>{{cite web|url=http://www.chubbychecker.com/bio.asp|title=The Official Site|website=ChubbyChecker.com|access-date=2015-08-18|archive-date=May 30, 2023|archive-url=https://web.archive.org/web/20230530044750/https://www.chubbychecker.com/bio.asp|url-status=dead}}</ref> By age eleven, Evans formed a street-corner harmony group. By the time he entered high school, Ernest had learned to play the piano a little at [[Settlement Music School]]. He entertained his classmates by performing vocal impressions of popular entertainers of the day, such as [[Jerry Lee Lewis]], [[Elvis Presley]] and [[Fats Domino]].<ref>{{cite web|title=Chubby Checker |url=https://www.biography.com/musician/chubby-checker|website=biography.com|access-date=17 June 2019}}</ref> One of his classmates and friends at [[South Philadelphia High School]] was Fabian Forte, who would become a popular performer of the late 1950s and early 1960s as [[Fabian Forte|Fabian]].<ref name= Chubby />
@@ -89,7 +89,7 @@ On December 12, 1963, Checker proposed to [[Catharina Lodders]], a 21-year-old [
 ! scope="col" rowspan="2"| Album
 ! scope="col" colspan="2"| Peak chart positions
 |-
-! style="width:40px;"|<small>[[Billboard 200|US]]</small><br><ref name="Awards"/>
+! style="width:40px;"|<small>[[Billboard 200|US]]</small><br><ref name="Awards"/><ref name="Whitburn">{{cite book | last = Whitburn | first = Joel | title = Top LPs, 1955–1972 | year = 1973 | publisher = Record Research | page = 31 | url = https://archive.org/details/joelwhitburnstoplp00whit/page/31/mode/2up | access-date = 2025-07-10}}</ref>
 ! style="width:40px;"|<small>[[UK Albums Chart|UK]]</small><br><ref name="UK"/>
 |-
 | rowspan="3"|1960
@@ -136,7 +136,7 @@ On December 12, 1963, Checker proposed to [[Catharina Lodders]], a 21-year-old [
 | align=center | —
 |-
 | ''Down To Earth (With Dee Dee Sharp)''
-| align=center | —
+| align=center | 117
 | align=center | —
 |-
 | rowspan="3"|1963
@@ -188,7 +188,7 @@ On December 12, 1963, Checker proposed to [[Catharina Lodders]], a 21-year-old [
 ! style="width:40px;"|<small>[[Billboard 200|US]]</small><br><ref name="Awards"/>
 |-
 | 1961
-| ''Your Twist Party (With The King Of Twist)
+| ''Your Twist Party (With The King Of Twist)''
 | align=center | 2
 |-
 | 1962

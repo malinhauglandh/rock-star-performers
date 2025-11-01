@@ -6,7 +6,7 @@
 | name             = Cake
 | image            = CakeCleveland.jpg
 | landscape        = yes
-| caption          = Cake playing at the Incuya Music Festival in Cleveland, Ohio, on August 26, 2018
+| caption          = Cake playing at the Incuya Music Festival in [[Cleveland, Ohio]], on August 26, 2018
 | origin           = [[Sacramento, California]], U.S.
 | genre            = {{hlist|[[Alternative rock]]|[[Country music|country]]|[[indie rock]]|[[funk rock]]}}
 | discography      = [[Cake discography]]
@@ -17,11 +17,11 @@
 | past_members     = Casey Lipka<br />[[Gabe Nelson]]<br/>[[Paulo Baldi]]<br/>Thomas Monson<br />[[Greg_Brown_(rock_musician)|Greg Brown]]<br />[[Victor Damiani]]<br />Shon Meckfessel<br />Pete McNeal<br />[[Frank French]]<br />Ari Gorman <br />[[Jordan Brady]]<br /> Lucy von Krusenstiern
 }}
 
-'''Cake''' is an American [[rock music|rock]] band from [[Sacramento, California]], consisting of singer [[John McCrea (musician)|John McCrea]], trumpeter [[Vince DiFiore]], guitarist Xan McCurdy, bassist Daniel McCallum, and drummer Todd Roper. The band has been noted for McCrea's droll sarcastic lyrics and deadpan vocals, and their wide-ranging musical influences, including [[Norteño (music)|norteño]], [[honky tonk|country music]], [[mariachi]], [[disco]], [[rock music|rock]], [[funk]], [[folk music]], and [[Hip hop music|hip hop]].
+'''Cake''' is an American [[rock music|rock]] band from [[Sacramento, California]], consisting of singer [[John McCrea (musician)|John McCrea]], trumpeter [[Vince DiFiore]], guitarist Xan McCurdy, bassist Daniel McCallum, and drummer Todd Roper. The band has been through many lineup changes but in all of them lead [[Singing|singer]] [[John McCrea (musician)|John McCrea]] and [[Trumpet|trumpeter]] [[Vince DiFiore]] have been consistently in the band since the start. The band has also been noted for McCrea's droll sarcastic lyrics and deadpan vocals, and their wide-ranging musical influences, including [[Norteño (music)|norteño]], [[honky tonk|country music]], [[mariachi]], [[disco]], [[rock music|rock]], [[funk]], [[folk music]], and [[Hip hop music|hip hop]].
 
 Cake was formed in August of 1991 by McCrea, DiFiore, [[Greg Brown (rock musician)|Greg Brown]] (guitar), [[Frank French]] (drums), and Shon Meckfessel (bass) who soon left and was replaced by [[Gabe Nelson]]. Following the self-release of its debut album, ''[[Motorcade of Generosity]]'', the band was signed to [[Capricorn Records]] in 1995 and released its first single, "[[Rock 'n' Roll Lifestyle]]", which hit number&nbsp;35 on the [[Modern Rock Tracks]] music chart and was featured on MTV's ''[[120 Minutes]]''; French and Nelson then left the band, and were replaced by Todd Roper and Victor Damiani. Cake's second album, 1996's ''[[Fashion Nugget]]'', went platinum on the strength of its lead single, "[[The Distance (Cake song)|The Distance]]". Following a tour of Europe and the United States, both Brown and Damiani announced they were leaving Cake, which led to speculation about the band's future; McCrea eventually recruited Xan McCurdy to take over on guitar, and persuaded Nelson to return.
 
-''[[Prolonging the Magic]]'', the band's third album, was released in 1998 and went platinum, having shipped over one million units; this was followed three years later by ''[[Comfort Eagle]]'', the band's first album on [[Columbia Records]], featuring the single "[[Short Skirt/Long Jacket]]" which hit number&nbsp;7 on the [[Modern Rock Tracks]] chart. Following a series of tours, including several versions of the Unlimited Sunshine Tour, the band released ''[[Pressure Chief]]'' in 2004, its second and last album on Columbia. After creating its own label, [[Upbeat Records]], the band released ''[[Showroom of Compassion]]'' in 2011, which became its first album to debut at the top of the ''Billboard'' charts, selling 44,000 copies in the first week after release. Their studio output has been minimal since 2011, although they have continued to tour and have occasionally hinted at an upcoming album.
+''[[Prolonging the Magic]]'', the band's third album, was released in 1998 and went platinum, having shipped over one million units featuring the single [[Never There (Cake song)|"Never There"]] which hit number 1 on the [[Alternative Airplay|Modern Rock Tracks]] chart; this was followed three years later by ''[[Comfort Eagle]]'', the band's first album on [[Columbia Records]], featuring the single "[[Short Skirt/Long Jacket]]" which hit number&nbsp;7 on the [[Modern Rock Tracks]] chart. Following a series of tours, including several versions of the Unlimited Sunshine Tour, the band released ''[[Pressure Chief]]'' in 2004, its second and last album on Columbia. After creating its own label, [[Upbeat Records]], the band released ''[[Showroom of Compassion]]'' in 2011, which became its first album to debut at the top of the ''Billboard'' charts, selling 44,000 copies in the first week after release. Their studio output has been minimal since 2011, although they have continued to tour and have occasionally hinted at an upcoming album.
 
 ==History==
 
@@ -87,12 +87,12 @@ Cake incorporates a wide range of genres into its music, including [[country mus
 *[[John McCrea (musician)|John McCrea]] – lead vocals, acoustic guitar, piano, organ, vibraslap (1991–present)
 *[[Vince DiFiore]] – trumpet, keyboards, [[melodica]], percussion, backing vocals (1991–present)
 *Todd Roper – drums, percussion, backing vocals (1994–2001, 2016–present)
-*Xan McCurdy – lead guitar, backing vocals (1997–present)
+*Xan McCurdy – electric guitar, backing vocals (1997–present)
 *Daniel McCallum – bass guitar, backing vocals (2016–present)
 
 '''Former members'''
 
-* [[Greg Brown (rock musician)|Greg Brown]] – lead guitar, organ, backing vocals (1991–1997)
+* [[Greg Brown (rock musician)|Greg Brown]] – electric guitar, organ, backing vocals (1991–1997)
 * [[Frank French]] – drums, backing vocals (1991–1994)
 * Shon Meckfessel – bass guitar, backing vocals (1991)
 * Rusty Miller – guitar (1998)
@@ -112,10 +112,10 @@ Period = from:01/01/1991 till:{{#time: m/d/Y}}
 TimeAxis = orientation:horizontal format:yyyy
 
 Colors =
- id:Vocals         value:red            legend:Vocals,_vibraslap
+ id:Vocals         value:red            legend:Lead_vocals,_acoustic_guitar,_vibraslap
  id:BVocals        value:pink        legend:Backing_vocals
  id:Trumpet      value:skyblue   legend:Trumpet,_melodica
- id:Guitars        value:green        legend:Guitars
+ id:Guitars        value:green        legend:Electric_guitar
  id:Keyboards   value:purple     legend:Keyboards
  id:Bass            value:blue          legend:Bass
  id:Drums         value:orange     legend:Drums
@@ -154,8 +154,7 @@ PlotData=
  bar:McCurdy from:01/01/1997 till:end color:Guitars
  bar:McCurdy from:01/01/1997 till:end color:BVocals width:3
  bar:McCrea from:01/01/1991 till:end color:Vocals
- bar:McCrea from:01/01/1995 till:end color:keyboards width:7
- bar:McCrea from:01/01/1991 till:end color:Guitars width:3
+ bar:McCrea from:01/01/1996 till:end color:keyboards width:3
  bar:DiFiore from:01/01/1991 till:end color:Trumpet 
  bar:DiFiore from:01/01/1996 till:01/01/1998 color:Perc width:3
  bar:DiFiore from:01/01/1998 till:end color:BVocals width:3
@@ -177,7 +176,9 @@ PlotData=
  bar:McNeal from:01/05/2001 till:01/01/2004 color:BVocals width:3
  bar:Roper from:01/01/1994 till:01/05/2001 color:Drums
  bar:Roper from:01/01/1994 till:01/05/2001 color:BVocals width:3
+ bar:Roper from:01/01/1998 till:01/05/2001 color:Perc width:7
  bar:Roper from:01/01/2016 till:end color:Drums
+ bar:Roper from:01/01/2016 till:end color:Perc    width:7
  bar:Roper from:01/01/2016 till:end color:BVocals width:3
  bar:French from:01/01/1991 till:01/01/1994 color:Drums
  bar:French from:01/01/1991 till:01/01/1994 color:BVocals width:3

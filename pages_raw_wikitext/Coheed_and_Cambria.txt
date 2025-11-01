@@ -11,7 +11,7 @@
 | genre             = <!-- These five genres summarize Coheed and Cambria's general musical focus, as recommended by [[Template:Infobox musical artist#genre]]. Progressive metal, alternative metal and other subgenres are better covered in the text than included here. -->
 {{flatlist|
 * [[Progressive rock]]
-* [[alternative rock]]
+* {{nowrap|[[alternative rock]]}}
 * {{nowrap|[[post-hardcore]]}}
 * [[emo]]
 * [[progressive metal]]
@@ -53,7 +53,7 @@ All of Coheed and Cambria's albums except for 2015's ''[[The Color Before the Su
 ==History==
 
 ===Formation and Shabütie (1995–2001)===
-In March 1995, after the split of [[Claudio Sanchez]] and [[Travis Stever]]'s band called Toxic Parents, they formed a band with [[Nate Kelley]] called Beautiful Loser. The band featured Stever on vocals and guitar, Sanchez on guitar, Kelley on drums and Jon Carleo on bass. The group was short-lived, breaking up by June 1995 after an argument over gas money.<ref name="toxic parents">{{cite web|url=http://dontpassthefence.org/shabutie.html|title=Dontpassthefence.org|work=Shabutie/Coheed and Cambria Knowledgebase|access-date=January 27, 2008}}</ref> Stever left the band, and the resulting trio was named Shabütie,<ref name="doa">{{cite web|url=http://www.adequacy.net/interview.php?InterviewID=56|title=Interview With Coheed and Cambria|work=Delusions of Adequacy|archive-url=https://web.archive.org/web/20080202075046/http://www.adequacy.net/interview.php?InterviewID=56|archive-date=February 2, 2008|url-status=usurped|access-date=January 27, 2008}}</ref> a word taken from African tribe chants that means "naked prey" in the film ''[[The Naked Prey]]''.
+In March 1995, after the split of [[Claudio Sanchez]] and [[Travis Stever]]'s band called Toxic Parents, they formed a band with [[Nate Kelley]] called Beautiful Loser. The band featured Stever on vocals and guitar, Sanchez on guitar, Kelley on drums and Jon Carleo on bass. The group was short lived, breaking up by June 1995 after an argument over gas money.<ref name="toxic parents">{{cite web|url=http://dontpassthefence.org/shabutie.html|title=Dontpassthefence.org|work=Shabutie/Coheed and Cambria Knowledgebase|access-date=January 27, 2008}}</ref> Stever left the band, and the resulting trio was named Shabütie,<ref name="doa">{{cite web|url=http://www.adequacy.net/interview.php?InterviewID=56|title=Interview With Coheed and Cambria|work=Delusions of Adequacy|archive-url=https://web.archive.org/web/20080202075046/http://www.adequacy.net/interview.php?InterviewID=56|archive-date=February 2, 2008|url-status=usurped|access-date=January 27, 2008}}</ref> a word taken from African tribe chants that means "naked prey" in the film ''[[The Naked Prey]]''.
 
 The band spent nearly a year experimenting with a multitude of different musical styles, including [[punk rock]], [[indie rock]], [[acoustic rock]], [[funk]], and [[Heavy metal music|heavy metal]]. When Carleo left the band in August 1996, Kelley recruited [[Michael Todd (musician)|Michael Todd]] to take his place. Todd, who was primarily a guitarist, picked up the bass specifically for Shabütie.<ref name="doa" /><ref name="saveyourscene">{{cite web|url=http://www.saveyourscene.com/web/view.php?table=interviews&show=4|title=Interview with Claudio|work=SaveYourScene|access-date=January 27, 2008|archive-url=https://web.archive.org/web/20080205130609/http://www.saveyourscene.com/web/view.php?table=interviews&show=4|archive-date=February 5, 2008|df=mdy-all}}</ref> As Shabütie, the band wrote dozens of songs and released their first studio demo ''Plan to Take Over the World'' in 1999. The band also released ''[[The Penelope EP]]'' in 1999, shortly after which Stever rejoined the band.
 
@@ -163,7 +163,7 @@ In early 2021, the band announced a tour co-headlining with [[The Used]]. On Jul
 ===''Vaxis – Act III: The Father of Make Believe'' (2024–present)===
 On July 12, 2024, the band premiered a new song, "Blind Side Sonny", on tour. They released a music video for the song on October 2, 2024. On November 20, the band revealed the title of their eleventh studio album, ''[[Vaxis – Act III: The Father of Make Believe]]'', the full tracklisting, and second single, "Searching for Tomorrow", along with a release date of March 14, 2025. On December 9, 2024, the band announced the Infinite Arc Tour with [[Mastodon (band)|Mastodon]] and [[Periphery (band)|Periphery]]. On January 14, 2025, the band released the single "Someone Who Can" and announced a second leg to their 2025 tour with [[Taking Back Sunday]] and [[Foxing (band)|Foxing]]. On June 3, 2025, the band announced the Welcome to Forever Tour, a UK and European tour with [[Haken (band)|Haken]].
 
-On September 10, 2025, the band announced a deluxe edition of ''Vaxis – Act III'', called the ''New Entities Edition'', with four new tracks to be released on October 3, 2025.<ref>{{Cite web |url=https://store.coheedandcambria.com/products/vaxis-act-iii-the-father-of-make-believe-new-entities-edition-2lp-d2c-exclusive-purple-optic-distortion?srsltid=AfmBOopMK0T2ifJasWl1eUVvm6sOlLtqQWa_6Rm6Gy4ADoHM_bkRXto8 |title=Vaxis Act III: The Father Of Make Believe (New Entities Edition) 2LP (D2C Exclusive - Purple Optic Distortion) |date=September 10, 2025 |via=coheedandcambria.com |access-date=September 10, 2025}}</ref>
+On September 10, 2025, the band announced a deluxe edition of ''Vaxis – Act III'', called the ''New Entities Edition'', with four new tracks that was released on October 3, 2025.<ref>{{Cite web |url=https://store.coheedandcambria.com/products/vaxis-act-iii-the-father-of-make-believe-new-entities-edition-2lp-d2c-exclusive-purple-optic-distortion?srsltid=AfmBOopMK0T2ifJasWl1eUVvm6sOlLtqQWa_6Rm6Gy4ADoHM_bkRXto8 |title=Vaxis Act III: The Father Of Make Believe (New Entities Edition) 2LP (D2C Exclusive - Purple Optic Distortion) |date=September 10, 2025 |via=coheedandcambria.com |access-date=September 10, 2025}}</ref>
 
 ==Musical style and influences==
 
@@ -231,8 +231,8 @@ ScaleMajor       = increment:3 start:1995
 ScaleMinor       = unit:year increment:1 start:1995
 
 BarData =
-  bar:Travis    text:Travis Stever
   bar:Claudio   text:Claudio Sanchez
+  bar:Travis    text:Travis Stever
   bar:Jon       text:Jon Carleo
   bar:Michael   text:Michael Todd
   bar:Zach      text:Zach Cooper

@@ -1,3 +1,4 @@
+
 {{short description|English art rock band}}
 {{about|1=the English rock band|2=their self-titled debut album|3=Roxy Music (album)}}
 {{Use British English|date=November 2018}}
@@ -5,7 +6,7 @@
 {{Infobox musical artist <!-- See Wikipedia:WikiProject Musicians -->
 | name            = Roxy Music
 | image           = Roxy Music - TopPop 1973 06.png
-| caption         = Roxy Music on ''[[TopPop]]'' in 1974. Left to right: [[Eddie Jobson]], [[Paul Thompson (musician)|Paul Thompson]], [[Phil Manzanera]], [[Bryan Ferry]], [[Sal Maida]], [[Andy Mackay]]
+| caption         = Roxy Music on ''[[TopPop]]'', 1974. Left to right: [[Eddie Jobson]], [[Paul Thompson (musician)|Paul Thompson]], [[Phil Manzanera]], [[Bryan Ferry]], [[Sal Maida]], [[Andy Mackay]]
 | image_upright   = 1.2
 | origin          = [[Newcastle upon Tyne]]/London, England
 | genre           = {{hlist|[[Art rock]]|[[glam rock]]|[[pop rock]]|[[sophisti-pop]]}}
@@ -15,7 +16,7 @@
 | spinoffs        = {{hlist|The Explorers|[[801 (band)|801]]}}
 | website         = {{URL|roxymusic.co.uk}}
 | current_members = * [[Bryan Ferry]]
-* [[Andy Mackay]]
+* [[Andy Mackay]] 
 * [[Phil Manzanera]]
 * [[Paul Thompson (musician)|Paul Thompson]]
 | past_members    = 

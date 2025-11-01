@@ -150,7 +150,7 @@ ImageSize  = width:800 height:auto barincrement:20
 PlotArea   = left:110 bottom:80 top:5 right:15
 Alignbars  = justify
 DateFormat = mm/dd/yyyy
-Period     = from:01/01/1995 till:08/30/2025 #it is best not to use auto-updating timelines as it can cause problems when the graphic updates on a daily basis
+Period     = from:01/01/1995 till:10/22/2025 #it is best not to use auto-updating timelines as it can cause problems when the graphic updates on a daily basis
 TimeAxis   = orientation:horizontal format:yyyy
 
 Colors =

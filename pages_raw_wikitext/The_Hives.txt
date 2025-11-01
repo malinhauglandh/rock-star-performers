@@ -121,11 +121,62 @@ The Hives are renowned for their energetic and highly rated live shows, with ''[
 !Nominee/Work
 !Result
 |-
-|Berlin Music Video Awards
-|2024
-|Best Bizarre
-|Bogus Operandi
-|Won
+|align="center"| Berlin Music Video Awards
+|align="center"| 2024
+| Best Bizarre
+| "Bogus Operandi"
+| {{won}}
+|-
+|align="center" rowspan="9"| [[Grammis]]
+|align="center"| 2002
+| Music Video of the Year
+| "Main Offender"
+| {{won}}
+|-
+|align="center" rowspan="4"| 2005
+| Album of the Year
+| ''Tyrannosaurus Hives''
+| {{won}}
+|-
+| Producer of the Year
+| Themslves <small>(shared with Pelle Gunnerfeldt)</small>
+| {{won}}
+|-
+| Artist of the Year
+|rowspan="4"| Themselves
+| {{won}}
+|-
+| Rock of the Year - Group
+| {{won}}
+|-
+|align="center"| 2008
+| Live of the Year
+| {{won}}
+|-
+|align="center" rowspan="2"| 2024
+| Rock of the Year
+| {{nom}}
+|-
+|rowspan="2"| Music Video of the Year
+| "Countdown to Shutdown"
+| {{won}}
+|-
+|align="center"| 2025
+| "Rigor Mortis Radio"
+| {{nom}}
+|-
+|align="center"| [[MTV Video Music Awards]]
+|align="center"| [[2002 MTV Video Music Awards|2002]]
+| [[MTV2 Award]]
+| "[[Hate to Say I Told You So]]"
+| {{nom}}
+|-
+|align="center"| [[MTV Europe Music Awards]]
+|align="center"| [[2002 MTV Europe Music Awards|2002]]
+| [[MTV Europe Music Award for Best Nordic Act|Best Nordic Act]]
+| Themselves
+| {{nom}}
+|-
 |}
 
 ==Notes==

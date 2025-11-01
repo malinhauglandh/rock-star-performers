@@ -3,26 +3,25 @@
 {{Use dmy dates|date=November 2021}}
 {{Use Australian English|date=February 2014}}
 {{Infobox musical artist
-| name             = Men at Work
-| image            = Men At Work 1983.jpg
-| landscape        = <!-- yes, if wide image, otherwise leave blank -->
-| alt              = 
-| caption          = Men at Work in 1983<br>Top: John Rees; middle: [[Jerry Speiser]], [[Ron Strykert]], [[Colin Hay]]; bottom: [[Greg Ham]]
-| background       = group_or_band
-| alias            = 
-| origin           = [[Melbourne]], [[Victoria (Australia)|Victoria]], Australia
-| genre            = {{hlist|[[New wave music|New wave]]<ref>{{cite web|url= http://www.allmusic.com/artist/men-at-work-mn0000873085/biography |first= Stephen Thomas |last= Erlewine |author-link= Stephen Thomas Erlewine |title= Men at Work – Artist Biography |website= [[AllMusic]] |access-date= 24 April 2015}}</ref><ref>{{cite web|url= http://www.avclub.com/article/greg-ham-of-men-at-work-originator-of-the-flute-ri-72654 |first= Steven |last= Hyden |title= Greg Ham of Men At Work, originator of the flute riff in "Down Under", found dead |work= [[The A.V. Club]] |date= 19 April 2012 |access-date= 24 April 2015}}</ref>|[[pop rock]]<ref>{{cite news|url= http://www.mtv.com/news/515559/men-at-works-colin-hay/ |archive-url= https://web.archive.org/web/20190103004843/http://www.mtv.com/news/515559/men-at-works-colin-hay/ |url-status= dead |archive-date= 3 January 2019 |first= Frank |last= Tortorici |title= Men At Work's Colin Hay |publisher= [[MTV]] |date= 28 June 1999 |access-date= 24 April 2015}}</ref><ref>{{cite magazine|url= http://www.billboard.com/biz/articles/news/1267253/men-at-work-loses-first-stage-in-copyright-dispute |first= Lars |last= Brandle |title= Men At Work Loses First Stage In Copyright Dispute |magazine=Billboard |date= 30 July 2009 |access-date= 24 April 2015}}</ref>|[[reggae rock]]<ref>{{cite web|title= Men At Work accused of plagiarism |first= Alex |last= Fletcher |work= [[Digital Spy]]|url= http://www.digitalspy.co.uk/music/news/a168340/men-at-work-accused-of-plagiarism.html |date= 30 July 2009 |access-date= 2 July 2014}}</ref>}}
-| years_active     =
-{{flatlist|
+| name              = Men at Work
+| image             = Men At Work 1983.jpg
+| landscape         = <!-- yes, if wide image, otherwise leave blank -->
+| alt               = 
+| caption           = Men at Work in 1983<br>Top: John Rees; middle: [[Jerry Speiser]], [[Ron Strykert]], [[Colin Hay]]; bottom: [[Greg Ham]]
+| background        = group_or_band
+| alias             = 
+| origin            = [[Melbourne]], [[Victoria (Australia)|Victoria]], Australia
+| genre             = {{hlist|[[New wave music|New wave]]<ref>{{cite web|url= http://www.allmusic.com/artist/men-at-work-mn0000873085/biography |first= Stephen Thomas |last= Erlewine |author-link= Stephen Thomas Erlewine |title= Men at Work – Artist Biography |website= [[AllMusic]] |access-date= 24 April 2015}}</ref><ref>{{cite web|url= http://www.avclub.com/article/greg-ham-of-men-at-work-originator-of-the-flute-ri-72654 |first= Steven |last= Hyden |title= Greg Ham of Men At Work, originator of the flute riff in "Down Under", found dead |work= [[The A.V. Club]] |date= 19 April 2012 |access-date= 24 April 2015}}</ref>|[[pop rock]]<ref>{{cite news|url= http://www.mtv.com/news/515559/men-at-works-colin-hay/ |archive-url= https://web.archive.org/web/20190103004843/http://www.mtv.com/news/515559/men-at-works-colin-hay/ |url-status= dead |archive-date= 3 January 2019 |first= Frank |last= Tortorici |title= Men At Work's Colin Hay |publisher= [[MTV]] |date= 28 June 1999 |access-date= 24 April 2015}}</ref><ref>{{cite magazine|url= http://www.billboard.com/biz/articles/news/1267253/men-at-work-loses-first-stage-in-copyright-dispute |first= Lars |last= Brandle |title= Men At Work Loses First Stage In Copyright Dispute |magazine=Billboard |date= 30 July 2009 |access-date= 24 April 2015}}</ref>|[[reggae rock]]<ref>{{cite web|title= Men At Work accused of plagiarism |first= Alex |last= Fletcher |work= [[Digital Spy]]|url= http://www.digitalspy.co.uk/music/news/a168340/men-at-work-accused-of-plagiarism.html |date= 30 July 2009 |access-date= 2 July 2014}}</ref>}}
+| years_active      = {{flatlist|
 *1979–1986
 *1996–2002<br /><small>(occasional reunions until 2012)</small>
 *2019–present
 }}
-| label            = {{hlist|[[Columbia Records|Columbia]]|[[Epic Records|Epic]]}}
-| associated_acts  = [[The Black Sorrows]]
-| website          = <!-- {{URL|example.com}} -->
-| current_members  = [[Colin Hay]]
-| past_members     = * [[Greg Ham]]
+| label             = {{hlist|[[Columbia Records|Columbia]]|[[Epic Records|Epic]]}}
+| associated_acts   = [[The Black Sorrows]]
+| website           = <!-- {{URL|example.com}} -->
+| current_members   = [[Colin Hay]]
+| past_members      = * [[Greg Ham]]
 * [[Jerry Speiser]]
 * [[Ron Strykert]]
 * John Rees
@@ -45,6 +44,8 @@ In 2019, Hay once again revived the Men at Work moniker and began touring with a
 The nucleus of Men at Work formed in Melbourne around June 1979 with [[Colin Hay]] on lead vocals and guitar, Ron Strykert on bass guitar, and [[Jerry Speiser]] on drums. They were soon joined by [[Greg Ham]] on flute, sax and keyboards, and then John Rees on bass guitar, with Strykert switching to lead guitar.<ref name="McFarlane"/> Hay had immigrated to Australia in 1967 from Scotland with his family.<ref name="Nimmervoll"/> In 1978, he had formed an acoustic duo with Strykert, which expanded by mid-1979 with the addition of Speiser. Around this time as a side project, keyboardist Greg Sneddon (ex-Alroy Band),<ref name="McFarlane"/><ref name="Best Music"/> a former bandmate of Jerry Speiser, together with Speiser, Hay and Strykert, performed and recorded the music to "Riff Raff", a low budget stage musical, upon which Sneddon had worked.
 
 Hay asked Greg Ham to join the group, but Ham hesitated, as he was finishing his music degree.{{citation needed|date=November 2018}} Ultimately, he decided to join the band in October 1979. John Rees, a friend of Jerry, joined soon after. The name Men At Work was thrown into the hat by Colin Hay, and was seconded by Ron Strykert, when a name was required to put on the blackboard outside The Cricketer's Arms Hotel, [[Richmond, Victoria|Richmond]].<ref name="Contraband"/> The band built a "grass roots" reputation as a [[Pub rock (Australia)|pub rock]] band.<ref name="McFarlane"/> In 1980, the group issued their debut single, "Keypunch Operator" backed by "[[Down Under (song)|Down Under]]", with both tracks co-written by Hay and Strykert.<ref name="McFarlane"/><ref name="APRA Down"/> It was "self-financed" and appeared on their own independent, M. A. W. label.<ref name="Nimmervoll"/><ref name="Holmgren"/> Australian musicologist, [[Ian McFarlane]], felt the A-side was "a fast-paced country-styled rocker with a clean sound and quirky rhythm".<ref name="McFarlane"/> Despite not appearing in the top&nbsp;100 on the Australian [[Kent Music Report]] Singles Chart,<ref name="Kent"/> by the end of that year the group had "grown in stature to become the most in-demand and highly paid, unsigned band of the year".<ref name="McFarlane"/>
+
+In July 1980, the band performed at the second "[[Rock Against Racism#International groups|Rock Against Racism]]" concert at the [[Northcote Town Hall]] in [[Northcote, Victoria|Northcote]], Melbourne, along with bands including  the [[Aboriginal Australians|Aboriginal]] band [[No Fixed Address (band)|No Fixed Address]] and [[Ross Hannaford]]'s [[Lucky Dog (band)|Lucky Dog]], and feminist circus troupe [[Wimmin's Circus]].<ref>{{cite news |url=http://nla.gov.au/nla.news-article259474708 |title=Rock Against Racism |newspaper=[[Tribune (Australian newspaper)|Tribune]] |issue=2149 |location=New South Wales, Australia |date=9 July 1980 |access-date=27 October 2025 |page=3 |via=National Library of Australia}}</ref>
 
 === International success – ''Business as Usual'' and ''Cargo'' (1981–1983) ===
 Early in 1981 Men at Work signed with CBS Records, the Australian branch of CBS Records International, (which became Sony Music) on the recommendation of Peter Karpin, the label's [[Artists and repertoire|A&R person]].<ref name="McFarlane"/><ref name="Nimmervoll"/> The group's first single with CBS Records in Australia "[[Who Can It Be Now?]]", was released in June 1981 which reached No.&nbsp;2 and remained in the chart for 24&nbsp;weeks.<ref name="Kent"/> It had been produced by United States–based Peter McIan, who was also working on their debut album, ''[[Business as Usual (Men at Work album)|Business as Usual]]''.<ref name="McFarlane"/><ref name="Nimmervoll"/><ref name="Holmgren"/>
